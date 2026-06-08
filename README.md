@@ -53,6 +53,7 @@
 </tr>
 <tr>
 <td width="25%"><img src="gallery/极简未来主义科幻.png" alt="极简未来主义科幻"><br><sub><b>AI 哨兵</b><br><i>极简未来主义科幻</i></sub></td>
+<td width="25%"><img src="gallery/奢侈时尚字体海报.png" alt="奢侈时尚字体海报"><br><sub><b>ASTRALUNE</b><br><i>奢侈时尚字体海报</i></sub></td>
 </tr>
 </table>
 
@@ -75,6 +76,7 @@
 <td width="25%"><img src="gallery/水彩环形放射.png" alt="水彩环形放射"><br><sub><b>智能绽放</b><br><i>水彩环形放射</i></sub></td>
 <td width="25%"><img src="gallery/祝笺仪式感插画.png" alt="祝笺仪式感插画"><br><sub><b>智能纪元</b><br><i>祝笺仪式感插画</i></sub></td>
 <td width="25%"><img src="gallery/柔焦烟灰绿插画.png" alt="柔焦烟灰绿插画"><br><sub><b>雾中少女</b><br><i>柔焦烟灰绿插画</i></sub></td>
+<td width="25%"><img src="gallery/剪影双重曝光叙事海报.png" alt="剪影双重曝光叙事海报"><br><sub><b>山海旅人</b><br><i>剪影双重曝光叙事海报</i></sub></td>
 </tr>
 </table>
 
@@ -173,6 +175,10 @@
 <td width="25%"><img src="gallery/民国名媛淡彩仕女.png" alt="民国名媛淡彩仕女"><br><sub><b>AI 数字人主播</b><br><i>民国名媛淡彩仕女</i></sub></td>
 <td width="25%"><img src="gallery/双重曝光数据人像.png" alt="双重曝光数据人像"><br><sub><b>数字孪生</b><br><i>双重曝光数据人像</i></sub></td>
 </tr>
+<tr>
+<td width="25%"><img src="gallery/单色肖像彩色眼镜.png" alt="单色肖像彩色眼镜"><br><sub><b>单色 × 琥珀镜</b><br><i>单色肖像彩色眼镜</i></sub></td>
+<td width="25%"><img src="gallery/未来感时尚拼贴.png" alt="未来感时尚拼贴"><br><sub><b>未来街拍拼贴</b><br><i>未来感时尚拼贴</i></sub></td>
+</tr>
 </table>
 
 ### 生活写实 · 像真照片的一帧
@@ -186,6 +192,7 @@
 </tr>
 <tr>
 <td width="25%"><img src="gallery/韩系暗调情绪写真.png" alt="韩系暗调情绪写真"><br><sub><b>暗调情绪写真</b><br><i>韩系暗调情绪写真</i></sub></td>
+<td width="25%"><img src="gallery/idol九宫格写真.png" alt="idol九宫格写真"><br><sub><b>idol 九宫格写真</b><br><i>idol九宫格写真</i></sub></td>
 </tr>
 </table>
 
