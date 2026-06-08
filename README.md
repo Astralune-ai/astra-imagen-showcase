@@ -16,7 +16,7 @@
 
 ---
 
-## 看图说话 · 70 个模板，70 种视觉语言，全 9:16
+## 看图说话 · 81 个模板，81 种视觉语言，全 9:16
 
 > 同一套引擎，一个模板一张图，主题都围绕 **AI 企业应用 / AI 落地**。版面全部由模型自己排，人物用同一张脸演绎几十种风格。
 
@@ -24,35 +24,38 @@
 
 <!-- GALLERY:START -->
 
-### 海报可视化 · 概念与场景
+### 概念海报 · 主体与场景
 
 <table>
 <tr>
 <td width="25%"><img src="gallery/地标巨字海报.png" alt="地标巨字海报"><br><sub><b>AI 驱动的未来城市</b><br><i>地标巨字海报</i></sub></td>
-<td width="25%"><img src="gallery/温润材质显影报告封面.png" alt="温润材质显影报告封面"><br><sub><b>2026 企业 AI 落地白皮书</b><br><i>温润材质显影报告封面</i></sub></td>
 <td width="25%"><img src="gallery/极简大色块双场海报.png" alt="极简大色块双场海报"><br><sub><b>企业 AI 落地指南</b><br><i>极简大色块双场海报</i></sub></td>
 <td width="25%"><img src="gallery/知识图鉴万物可转.png" alt="知识图鉴万物可转"><br><sub><b>AI 能做的 100 件事</b><br><i>知识图鉴万物可转</i></sub></td>
+<td width="25%"><img src="gallery/年轮知识生命系统.png" alt="年轮知识生命系统"><br><sub><b>企业知识库的生长</b><br><i>年轮知识生命系统</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/年轮知识生命系统.png" alt="年轮知识生命系统"><br><sub><b>企业知识库的生长</b><br><i>年轮知识生命系统</i></sub></td>
 <td width="25%"><img src="gallery/三角形跳出窗口.png" alt="三角形跳出窗口"><br><sub><b>智能体破框而出</b><br><i>三角形跳出窗口</i></sub></td>
 <td width="25%"><img src="gallery/极简物象穿越几何窗.png" alt="极简物象穿越几何窗"><br><sub><b>智能体穿越企业流程</b><br><i>极简物象穿越几何窗</i></sub></td>
-<td width="25%"><img src="gallery/东方水墨动画.png" alt="东方水墨动画"><br><sub><b>智能体觉醒</b><br><i>东方水墨动画</i></sub></td>
-</tr>
-<tr>
 <td width="25%"><img src="gallery/撕开一道缝.png" alt="撕开一道缝"><br><sub><b>AI 撕开效率的天花板</b><br><i>撕开一道缝</i></sub></td>
 <td width="25%"><img src="gallery/玻璃雾化局部透明窄窗.png" alt="玻璃雾化局部透明窄窗"><br><sub><b>私有化部署</b><br><i>玻璃雾化局部透明窄窗</i></sub></td>
+</tr>
+<tr>
 <td width="25%"><img src="gallery/光的容器剪影光窗.png" alt="光的容器剪影光窗"><br><sub><b>数据之光</b><br><i>光的容器剪影光窗</i></sub></td>
 <td width="25%"><img src="gallery/透明介质显影.png" alt="透明介质显影"><br><sub><b>数据价值显影</b><br><i>透明介质显影</i></sub></td>
-</tr>
-<tr>
-<td width="25%"><img src="gallery/丝网印刷气候海报.png" alt="丝网印刷气候海报"><br><sub><b>数据洪流</b><br><i>丝网印刷气候海报</i></sub></td>
-<td width="25%"><img src="gallery/像素故障信息海报.png" alt="像素故障信息海报"><br><sub><b>没有 AI 的企业正在掉队</b><br><i>像素故障信息海报</i></sub></td>
-<td width="25%"><img src="gallery/压顶大字商业海报.png" alt="压顶大字商业海报"><br><sub><b>给每个企业配一个 AI 员工</b><br><i>压顶大字商业海报</i></sub></td>
 <td width="25%"><img src="gallery/不规则背景色块菜单页.png" alt="不规则背景色块菜单页"><br><sub><b>企业 AI 服务菜单</b><br><i>不规则背景色块菜单页</i></sub></td>
+<td width="25%"><img src="gallery/镜头三分构图摄影海报.png" alt="镜头三分构图摄影海报"><br><sub><b>部署在客户现场的 AI 服务器</b><br><i>镜头三分构图摄影海报</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/复古印刷钝化.png" alt="复古印刷钝化"><br><sub><b>老字号的 AI 转型</b><br><i>复古印刷钝化</i></sub></td>
+<td width="25%"><img src="gallery/高密度手绘线描.png" alt="高密度手绘线描"><br><sub><b>被 AI 理顺的业务流程</b><br><i>高密度手绘线描</i></sub></td>
+<td width="25%"><img src="gallery/艺术展览级创意.png" alt="艺术展览级创意"><br><sub><b>数据生命体</b><br><i>艺术展览级创意</i></sub></td>
+</tr>
+</table>
+
+### 氛围插画 · 治愈与东方
+
+<table>
+<tr>
+<td width="25%"><img src="gallery/东方水墨动画.png" alt="东方水墨动画"><br><sub><b>智能体觉醒</b><br><i>东方水墨动画</i></sub></td>
 <td width="25%"><img src="gallery/二十四节气景深.png" alt="二十四节气景深"><br><sub><b>AI 落地的春天</b><br><i>二十四节气景深</i></sub></td>
 <td width="25%"><img src="gallery/东方节庆插画弧形动势.png" alt="东方节庆插画弧形动势"><br><sub><b>AI 重塑传统行业</b><br><i>东方节庆插画弧形动势</i></sub></td>
 <td width="25%"><img src="gallery/会流动会发光会呼吸.png" alt="会流动会发光会呼吸"><br><sub><b>让 AI 在你的企业里生长</b><br><i>会流动会发光会呼吸</i></sub></td>
@@ -61,28 +64,56 @@
 <td width="25%"><img src="gallery/清新治愈弥散剪影.png" alt="清新治愈弥散剪影"><br><sub><b>AI 让工作更轻</b><br><i>清新治愈弥散剪影</i></sub></td>
 <td width="25%"><img src="gallery/旅行记忆窗口.png" alt="旅行记忆窗口"><br><sub><b>一家企业的 AI 落地之旅</b><br><i>旅行记忆窗口</i></sub></td>
 <td width="25%"><img src="gallery/早安晚安水彩问候.png" alt="早安晚安水彩问候"><br><sub><b>你的 AI 员工 7×24 从不打烊</b><br><i>早安晚安水彩问候</i></sub></td>
+<td width="25%"><img src="gallery/童话版画.png" alt="童话版画"><br><sub><b>AI 与人类协作的寓言</b><br><i>童话版画</i></sub></td>
+</tr>
+<tr>
+<td width="25%"><img src="gallery/水彩环形放射.png" alt="水彩环形放射"><br><sub><b>智能绽放</b><br><i>水彩环形放射</i></sub></td>
+<td width="25%"><img src="gallery/祝笺仪式感插画.png" alt="祝笺仪式感插画"><br><sub><b>智能纪元</b><br><i>祝笺仪式感插画</i></sub></td>
+</tr>
+</table>
+
+### 复古印刷 · 丝网与拼贴
+
+<table>
+<tr>
+<td width="25%"><img src="gallery/丝网印刷气候海报.png" alt="丝网印刷气候海报"><br><sub><b>数据洪流</b><br><i>丝网印刷气候海报</i></sub></td>
+<td width="25%"><img src="gallery/像素故障信息海报.png" alt="像素故障信息海报"><br><sub><b>没有 AI 的企业正在掉队</b><br><i>像素故障信息海报</i></sub></td>
+<td width="25%"><img src="gallery/复古印刷钝化.png" alt="复古印刷钝化"><br><sub><b>老字号的 AI 转型</b><br><i>复古印刷钝化</i></sub></td>
 <td width="25%"><img src="gallery/杂志拼贴像素刺绣.png" alt="杂志拼贴像素刺绣"><br><sub><b>群体智能</b><br><i>杂志拼贴像素刺绣</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/童话版画.png" alt="童话版画"><br><sub><b>AI 与人类协作的寓言</b><br><i>童话版画</i></sub></td>
-<td width="25%"><img src="gallery/纪念碑谷空间字版.png" alt="纪念碑谷空间字版"><br><sub><b>落地</b><br><i>纪念碑谷空间字版</i></sub></td>
+<td width="25%"><img src="gallery/电影感像素残影手写线.png" alt="电影感像素残影手写线"><br><sub><b>记忆即知识库</b><br><i>电影感像素残影手写线</i></sub></td>
+<td width="25%"><img src="gallery/复古弥散渐变海报.png" alt="复古弥散渐变海报"><br><sub><b>智能涌现</b><br><i>复古弥散渐变海报</i></sub></td>
+<td width="25%"><img src="gallery/高明度信息拼贴.png" alt="高明度信息拼贴"><br><sub><b>AI 系统上线</b><br><i>高明度信息拼贴</i></sub></td>
+<td width="25%"><img src="gallery/日本极简潮玩海报.png" alt="日本极简潮玩海报"><br><sub><b>AI 机器人潮玩</b><br><i>日本极简潮玩海报</i></sub></td>
+</tr>
+</table>
+
+### 商业大字 · 传播与发布
+
+<table>
+<tr>
+<td width="25%"><img src="gallery/压顶大字商业海报.png" alt="压顶大字商业海报"><br><sub><b>给每个企业配一个 AI 员工</b><br><i>压顶大字商业海报</i></sub></td>
 <td width="25%"><img src="gallery/纸面颗粒巨字PPT.png" alt="纸面颗粒巨字PPT"><br><sub><b>降本增效</b><br><i>纸面颗粒巨字PPT</i></sub></td>
 <td width="25%"><img src="gallery/线条字体狂躁.png" alt="线条字体狂躁"><br><sub><b>效率革命</b><br><i>线条字体狂躁</i></sub></td>
+<td width="25%"><img src="gallery/饮品商业剪贴产品.png" alt="饮品商业剪贴产品"><br><sub><b>AI 效率特饮</b><br><i>饮品商业剪贴产品</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/镜头三分构图摄影海报.png" alt="镜头三分构图摄影海报"><br><sub><b>部署在客户现场的 AI 服务器</b><br><i>镜头三分构图摄影海报</i></sub></td>
-<td width="25%"><img src="gallery/饮品商业剪贴产品.png" alt="饮品商业剪贴产品"><br><sub><b>AI 效率特饮</b><br><i>饮品商业剪贴产品</i></sub></td>
-<td width="25%"><img src="gallery/高密度手绘线描.png" alt="高密度手绘线描"><br><sub><b>被 AI 理顺的业务流程</b><br><i>高密度手绘线描</i></sub></td>
 <td width="25%"><img src="gallery/黑夜大字报心理洞察.png" alt="黑夜大字报心理洞察"><br><sub><b>你不是缺人，是缺一个 AI 员工</b><br><i>黑夜大字报心理洞察</i></sub></td>
 </tr>
+</table>
+
+### 3D材质 · 立体与空间
+
+<table>
 <tr>
-<td width="25%"><img src="gallery/电影感像素残影手写线.png" alt="电影感像素残影手写线"><br><sub><b>记忆即知识库</b><br><i>电影感像素残影手写线</i></sub></td>
+<td width="25%"><img src="gallery/温润材质显影报告封面.png" alt="温润材质显影报告封面"><br><sub><b>2026 企业 AI 落地白皮书</b><br><i>温润材质显影报告封面</i></sub></td>
+<td width="25%"><img src="gallery/纪念碑谷空间字版.png" alt="纪念碑谷空间字版"><br><sub><b>落地</b><br><i>纪念碑谷空间字版</i></sub></td>
 <td width="25%"><img src="gallery/流体玻璃拟态海报.png" alt="流体玻璃拟态海报"><br><sub><b>企业 AI 平台</b><br><i>流体玻璃拟态海报</i></sub></td>
 <td width="25%"><img src="gallery/等距3D微缩世界.png" alt="等距3D微缩世界"><br><sub><b>AI 自动化工作流</b><br><i>等距3D微缩世界</i></sub></td>
-<td width="25%"><img src="gallery/新中式描金海报.png" alt="新中式描金海报"><br><sub><b>东方智造 · AI 落地</b><br><i>新中式描金海报</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/复古弥散渐变海报.png" alt="复古弥散渐变海报"><br><sub><b>智能涌现</b><br><i>复古弥散渐变海报</i></sub></td>
+<td width="25%"><img src="gallery/新中式描金海报.png" alt="新中式描金海报"><br><sub><b>东方智造 · AI 落地</b><br><i>新中式描金海报</i></sub></td>
 </tr>
 </table>
 
@@ -106,27 +137,6 @@
 <td width="25%"><img src="gallery/立体挤出3D大字.png" alt="立体挤出3D大字"><br><sub><b>智能</b><br><i>立体挤出3D大字</i></sub></td>
 <td width="25%"><img src="gallery/铬质Y2K金属字.png" alt="铬质Y2K金属字"><br><sub><b>未来</b><br><i>铬质Y2K金属字</i></sub></td>
 <td width="25%"><img src="gallery/狂草书法墨字.png" alt="狂草书法墨字"><br><sub><b>破局</b><br><i>狂草书法墨字</i></sub></td>
-</tr>
-</table>
-
-### 信息图 · 把信息讲清楚
-
-<table>
-<tr>
-<td width="25%"><img src="gallery/长文转图30秒看懂.png" alt="长文转图30秒看懂"><br><sub><b>企业为什么要专属的 AI 员工？</b><br><i>长文转图30秒看懂</i></sub></td>
-<td width="25%"><img src="gallery/个性化发型推荐报告.png" alt="个性化发型推荐报告"><br><sub><b>AI 个人形象设计报告</b><br><i>个性化发型推荐报告</i></sub></td>
-<td width="25%"><img src="gallery/玄学批注分析报告.png" alt="玄学批注分析报告"><br><sub><b>面相·综合分析报告</b><br><i>玄学批注分析报告</i></sub></td>
-</tr>
-</table>
-
-### 文生图 · 轻量直出
-
-<table>
-<tr>
-<td width="25%"><img src="gallery/竖版像素暗场.png" alt="竖版像素暗场"><br><sub><b>AI 推理服务器</b><br><i>竖版像素暗场</i></sub></td>
-<td width="25%"><img src="gallery/纸本线描手稿.png" alt="纸本线描手稿"><br><sub><b>AI 数据中心</b><br><i>纸本线描手稿</i></sub></td>
-<td width="25%"><img src="gallery/极简黑色手绘线描.png" alt="极简黑色手绘线描"><br><sub><b>和 AI 协作</b><br><i>极简黑色手绘线描</i></sub></td>
-<td width="25%"><img src="gallery/笨拙手绘.png" alt="笨拙手绘"><br><sub><b>我和我的 AI 小助手</b><br><i>笨拙手绘</i></sub></td>
 </tr>
 </table>
 
@@ -166,6 +176,47 @@
 <table>
 <tr>
 <td width="25%"><img src="gallery/编辑衬线角色海报.png" alt="编辑衬线角色海报"><br><sub><b>数字员工 ASTRA</b><br><i>编辑衬线角色海报</i></sub></td>
+<td width="25%"><img src="gallery/编辑衬线角色海报_akali.png" alt="编辑衬线角色海报"><br><sub><b>暗夜刺客 阿卡丽</b><br><i>编辑衬线角色海报</i></sub></td>
+</tr>
+</table>
+
+### 信息图 · 科普图解
+
+<table>
+<tr>
+<td width="25%"><img src="gallery/长文转图30秒看懂.png" alt="长文转图30秒看懂"><br><sub><b>企业为什么要专属的 AI 员工？</b><br><i>长文转图30秒看懂</i></sub></td>
+<td width="25%"><img src="gallery/手写学习笔记.png" alt="手写学习笔记"><br><sub><b>机器学习入门</b><br><i>手写学习笔记</i></sub></td>
+</tr>
+</table>
+
+### 信息图 · 科研学术
+
+<table>
+<tr>
+<td width="25%"><img src="gallery/科研信息图.png" alt="科研信息图"><br><sub><b>大语言模型工作原理</b><br><i>科研信息图</i></sub></td>
+<td width="25%"><img src="gallery/科研论文插图.png" alt="科研论文插图"><br><sub><b>Transformer 注意力机制</b><br><i>科研论文插图</i></sub></td>
+<td width="25%"><img src="gallery/科研杂志封面图.png" alt="科研杂志封面图"><br><sub><b>神经网络</b><br><i>科研杂志封面图</i></sub></td>
+</tr>
+</table>
+
+### 信息图 · 专业报告
+
+<table>
+<tr>
+<td width="25%"><img src="gallery/个性化发型推荐报告.png" alt="个性化发型推荐报告"><br><sub><b>AI 个人形象设计报告</b><br><i>个性化发型推荐报告</i></sub></td>
+<td width="25%"><img src="gallery/玄学批注分析报告.png" alt="玄学批注分析报告"><br><sub><b>面相·综合分析报告</b><br><i>玄学批注分析报告</i></sub></td>
+<td width="25%"><img src="gallery/专业空间轴测图.png" alt="专业空间轴测图"><br><sub><b>Astralune AI 数据中心</b><br><i>专业空间轴测图</i></sub></td>
+</tr>
+</table>
+
+### 文生图 · 轻量直出
+
+<table>
+<tr>
+<td width="25%"><img src="gallery/竖版像素暗场.png" alt="竖版像素暗场"><br><sub><b>AI 推理服务器</b><br><i>竖版像素暗场</i></sub></td>
+<td width="25%"><img src="gallery/纸本线描手稿.png" alt="纸本线描手稿"><br><sub><b>AI 数据中心</b><br><i>纸本线描手稿</i></sub></td>
+<td width="25%"><img src="gallery/极简黑色手绘线描.png" alt="极简黑色手绘线描"><br><sub><b>和 AI 协作</b><br><i>极简黑色手绘线描</i></sub></td>
+<td width="25%"><img src="gallery/笨拙手绘.png" alt="笨拙手绘"><br><sub><b>我和我的 AI 小助手</b><br><i>笨拙手绘</i></sub></td>
 </tr>
 </table>
 <!-- GALLERY:END -->
