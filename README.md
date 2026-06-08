@@ -81,6 +81,9 @@
 <td width="25%"><img src="gallery/等距3D微缩世界.png" alt="等距3D微缩世界"><br><sub><b>AI 自动化工作流</b><br><i>等距3D微缩世界</i></sub></td>
 <td width="25%"><img src="gallery/新中式描金海报.png" alt="新中式描金海报"><br><sub><b>东方智造 · AI 落地</b><br><i>新中式描金海报</i></sub></td>
 </tr>
+<tr>
+<td width="25%"><img src="gallery/复古弥散渐变海报.png" alt="复古弥散渐变海报"><br><sub><b>智能涌现</b><br><i>复古弥散渐变海报</i></sub></td>
+</tr>
 </table>
 
 ### 字体海报 · 把字做成视觉
