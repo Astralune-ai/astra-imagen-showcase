@@ -117,6 +117,9 @@
 </tr>
 <tr>
 <td width="25%"><img src="gallery/新中式描金海报.png" alt="新中式描金海报"><br><sub><b>东方智造 · AI 落地</b><br><i>新中式描金海报</i></sub></td>
+<td width="25%"><img src="gallery/黏土定格微缩世界.png" alt="黏土定格微缩世界"><br><sub><b>AI 数字员工的一天</b><br><i>黏土定格微缩世界</i></sub></td>
+<td width="25%"><img src="gallery/液态铬流体雕塑.png" alt="液态铬流体雕塑"><br><sub><b>AI 内核</b><br><i>液态铬流体雕塑</i></sub></td>
+<td width="25%"><img src="gallery/折纸纸艺立体场景.png" alt="折纸纸艺立体场景"><br><sub><b>AI 落地蓝图</b><br><i>折纸纸艺立体场景</i></sub></td>
 </tr>
 </table>
 
