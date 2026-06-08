@@ -51,6 +51,9 @@
 <td width="25%"><img src="gallery/街头编辑拼贴海报.png" alt="街头编辑拼贴海报"><br><sub><b>PERCEIVE</b><br><i>街头编辑拼贴海报</i></sub></td>
 <td width="25%"><img src="gallery/毛绒汽水罐产品.png" alt="毛绒汽水罐产品"><br><sub><b>毛绒汽水罐</b><br><i>毛绒汽水罐产品</i></sub></td>
 </tr>
+<tr>
+<td width="25%"><img src="gallery/极简未来主义科幻.png" alt="极简未来主义科幻"><br><sub><b>AI 哨兵</b><br><i>极简未来主义科幻</i></sub></td>
+</tr>
 </table>
 
 ### 氛围插画 · 治愈与东方
@@ -179,6 +182,10 @@
 <td width="25%"><img src="gallery/柔光CCD夜色街拍.png" alt="柔光CCD夜色街拍"><br><sub><b>夜色都市街拍</b><br><i>柔光CCD夜色街拍</i></sub></td>
 <td width="25%"><img src="gallery/香港夜景全身旅拍.png" alt="香港夜景全身旅拍"><br><sub><b>香港维港夜景旅拍</b><br><i>香港夜景全身旅拍</i></sub></td>
 <td width="25%"><img src="gallery/韩系豪车人像.png" alt="韩系豪车人像"><br><sub><b>韩系豪车写真</b><br><i>韩系豪车人像</i></sub></td>
+<td width="25%"><img src="gallery/韩系街拍墨镜自拍.png" alt="韩系街拍墨镜自拍"><br><sub><b>韩系街拍自拍</b><br><i>韩系街拍墨镜自拍</i></sub></td>
+</tr>
+<tr>
+<td width="25%"><img src="gallery/韩系暗调情绪写真.png" alt="韩系暗调情绪写真"><br><sub><b>暗调情绪写真</b><br><i>韩系暗调情绪写真</i></sub></td>
 </tr>
 </table>
 
