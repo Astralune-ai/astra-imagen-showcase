@@ -28,32 +28,32 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 
 <table>
 <tr>
-<td width="25%"><img src="gallery/地标巨字海报.png" alt="地标巨字海报"><br><sub><b>AI 驱动的未来城市</b><br><i>地标巨字海报</i></sub></td>
-<td width="25%"><img src="gallery/极简大色块双场海报.png" alt="极简大色块双场海报"><br><sub><b>企业 AI 落地指南</b><br><i>极简大色块双场海报</i></sub></td>
-<td width="25%"><img src="gallery/知识图鉴万物可转.png" alt="知识图鉴万物可转"><br><sub><b>AI 能做的 100 件事</b><br><i>知识图鉴万物可转</i></sub></td>
-<td width="25%"><img src="gallery/年轮知识生命系统.png" alt="年轮知识生命系统"><br><sub><b>企业知识库的生长</b><br><i>年轮知识生命系统</i></sub></td>
+<td width="25%"><img src="gallery/地标巨字海报.png?v=072db2be" alt="地标巨字海报"><br><sub><b>AI 驱动的未来城市</b><br><i>地标巨字海报</i></sub></td>
+<td width="25%"><img src="gallery/极简大色块双场海报.png?v=4c287fa5" alt="极简大色块双场海报"><br><sub><b>企业 AI 落地指南</b><br><i>极简大色块双场海报</i></sub></td>
+<td width="25%"><img src="gallery/知识图鉴万物可转.png?v=8ca57364" alt="知识图鉴万物可转"><br><sub><b>AI 能做的 100 件事</b><br><i>知识图鉴万物可转</i></sub></td>
+<td width="25%"><img src="gallery/年轮知识生命系统.png?v=82c0203f" alt="年轮知识生命系统"><br><sub><b>企业知识库的生长</b><br><i>年轮知识生命系统</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/三角形跳出窗口.png" alt="三角形跳出窗口"><br><sub><b>智能体破框而出</b><br><i>三角形跳出窗口</i></sub></td>
-<td width="25%"><img src="gallery/极简物象穿越几何窗.png" alt="极简物象穿越几何窗"><br><sub><b>智能体穿越企业流程</b><br><i>极简物象穿越几何窗</i></sub></td>
-<td width="25%"><img src="gallery/撕开一道缝.png" alt="撕开一道缝"><br><sub><b>AI 撕开效率的天花板</b><br><i>撕开一道缝</i></sub></td>
-<td width="25%"><img src="gallery/玻璃雾化局部透明窄窗.png" alt="玻璃雾化局部透明窄窗"><br><sub><b>私有化部署</b><br><i>玻璃雾化局部透明窄窗</i></sub></td>
+<td width="25%"><img src="gallery/三角形跳出窗口.png?v=4037b4e2" alt="三角形跳出窗口"><br><sub><b>智能体破框而出</b><br><i>三角形跳出窗口</i></sub></td>
+<td width="25%"><img src="gallery/极简物象穿越几何窗.png?v=c673c0b4" alt="极简物象穿越几何窗"><br><sub><b>智能体穿越企业流程</b><br><i>极简物象穿越几何窗</i></sub></td>
+<td width="25%"><img src="gallery/撕开一道缝.png?v=8be88c3f" alt="撕开一道缝"><br><sub><b>AI 撕开效率的天花板</b><br><i>撕开一道缝</i></sub></td>
+<td width="25%"><img src="gallery/玻璃雾化局部透明窄窗.png?v=becdec1d" alt="玻璃雾化局部透明窄窗"><br><sub><b>私有化部署</b><br><i>玻璃雾化局部透明窄窗</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/光的容器剪影光窗.png" alt="光的容器剪影光窗"><br><sub><b>数据之光</b><br><i>光的容器剪影光窗</i></sub></td>
-<td width="25%"><img src="gallery/透明介质显影.png" alt="透明介质显影"><br><sub><b>数据价值显影</b><br><i>透明介质显影</i></sub></td>
-<td width="25%"><img src="gallery/不规则背景色块菜单页.png" alt="不规则背景色块菜单页"><br><sub><b>企业 AI 服务菜单</b><br><i>不规则背景色块菜单页</i></sub></td>
-<td width="25%"><img src="gallery/镜头三分构图摄影海报.png" alt="镜头三分构图摄影海报"><br><sub><b>部署在客户现场的 AI 服务器</b><br><i>镜头三分构图摄影海报</i></sub></td>
+<td width="25%"><img src="gallery/光的容器剪影光窗.png?v=e2309ebb" alt="光的容器剪影光窗"><br><sub><b>数据之光</b><br><i>光的容器剪影光窗</i></sub></td>
+<td width="25%"><img src="gallery/透明介质显影.png?v=2285a686" alt="透明介质显影"><br><sub><b>数据价值显影</b><br><i>透明介质显影</i></sub></td>
+<td width="25%"><img src="gallery/不规则背景色块菜单页.png?v=d607f5cc" alt="不规则背景色块菜单页"><br><sub><b>企业 AI 服务菜单</b><br><i>不规则背景色块菜单页</i></sub></td>
+<td width="25%"><img src="gallery/镜头三分构图摄影海报.png?v=e69ff638" alt="镜头三分构图摄影海报"><br><sub><b>部署在客户现场的 AI 服务器</b><br><i>镜头三分构图摄影海报</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/高密度手绘线描.png" alt="高密度手绘线描"><br><sub><b>被 AI 理顺的业务流程</b><br><i>高密度手绘线描</i></sub></td>
-<td width="25%"><img src="gallery/艺术展览级创意.png" alt="艺术展览级创意"><br><sub><b>数据生命体</b><br><i>艺术展览级创意</i></sub></td>
-<td width="25%"><img src="gallery/街头编辑拼贴海报.png" alt="街头编辑拼贴海报"><br><sub><b>PERCEIVE</b><br><i>街头编辑拼贴海报</i></sub></td>
-<td width="25%"><img src="gallery/毛绒汽水罐产品.png" alt="毛绒汽水罐产品"><br><sub><b>毛绒汽水罐</b><br><i>毛绒汽水罐产品</i></sub></td>
+<td width="25%"><img src="gallery/高密度手绘线描.png?v=016eb6d1" alt="高密度手绘线描"><br><sub><b>被 AI 理顺的业务流程</b><br><i>高密度手绘线描</i></sub></td>
+<td width="25%"><img src="gallery/艺术展览级创意.png?v=7e49e9d5" alt="艺术展览级创意"><br><sub><b>数据生命体</b><br><i>艺术展览级创意</i></sub></td>
+<td width="25%"><img src="gallery/街头编辑拼贴海报.png?v=0f8c20f9" alt="街头编辑拼贴海报"><br><sub><b>PERCEIVE</b><br><i>街头编辑拼贴海报</i></sub></td>
+<td width="25%"><img src="gallery/毛绒汽水罐产品.png?v=c77e0d29" alt="毛绒汽水罐产品"><br><sub><b>毛绒汽水罐</b><br><i>毛绒汽水罐产品</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/极简未来主义科幻.png" alt="极简未来主义科幻"><br><sub><b>AI 哨兵</b><br><i>极简未来主义科幻</i></sub></td>
-<td width="25%"><img src="gallery/奢侈时尚字体海报.png" alt="奢侈时尚字体海报"><br><sub><b>ASTRALUNE</b><br><i>奢侈时尚字体海报</i></sub></td>
+<td width="25%"><img src="gallery/极简未来主义科幻.png?v=328de0ad" alt="极简未来主义科幻"><br><sub><b>AI 哨兵</b><br><i>极简未来主义科幻</i></sub></td>
+<td width="25%"><img src="gallery/奢侈时尚字体海报.png?v=f29f441a" alt="奢侈时尚字体海报"><br><sub><b>ASTRALUNE</b><br><i>奢侈时尚字体海报</i></sub></td>
 </tr>
 </table>
 
@@ -61,22 +61,22 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 
 <table>
 <tr>
-<td width="25%"><img src="gallery/东方水墨动画.png" alt="东方水墨动画"><br><sub><b>智能体觉醒</b><br><i>东方水墨动画</i></sub></td>
-<td width="25%"><img src="gallery/二十四节气景深.png" alt="二十四节气景深"><br><sub><b>AI 落地的春天</b><br><i>二十四节气景深</i></sub></td>
-<td width="25%"><img src="gallery/东方节庆插画弧形动势.png" alt="东方节庆插画弧形动势"><br><sub><b>AI 重塑传统行业</b><br><i>东方节庆插画弧形动势</i></sub></td>
-<td width="25%"><img src="gallery/会流动会发光会呼吸.png" alt="会流动会发光会呼吸"><br><sub><b>让 AI 在你的企业里生长</b><br><i>会流动会发光会呼吸</i></sub></td>
+<td width="25%"><img src="gallery/东方水墨动画.png?v=ee375972" alt="东方水墨动画"><br><sub><b>智能体觉醒</b><br><i>东方水墨动画</i></sub></td>
+<td width="25%"><img src="gallery/二十四节气景深.png?v=3d3fdad7" alt="二十四节气景深"><br><sub><b>AI 落地的春天</b><br><i>二十四节气景深</i></sub></td>
+<td width="25%"><img src="gallery/东方节庆插画弧形动势.png?v=c51caf16" alt="东方节庆插画弧形动势"><br><sub><b>AI 重塑传统行业</b><br><i>东方节庆插画弧形动势</i></sub></td>
+<td width="25%"><img src="gallery/会流动会发光会呼吸.png?v=f5dc76e4" alt="会流动会发光会呼吸"><br><sub><b>让 AI 在你的企业里生长</b><br><i>会流动会发光会呼吸</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/清新治愈弥散剪影.png" alt="清新治愈弥散剪影"><br><sub><b>AI 让工作更轻</b><br><i>清新治愈弥散剪影</i></sub></td>
-<td width="25%"><img src="gallery/旅行记忆窗口.png" alt="旅行记忆窗口"><br><sub><b>一家企业的 AI 落地之旅</b><br><i>旅行记忆窗口</i></sub></td>
-<td width="25%"><img src="gallery/早安晚安水彩问候.png" alt="早安晚安水彩问候"><br><sub><b>你的 AI 员工 7×24 从不打烊</b><br><i>早安晚安水彩问候</i></sub></td>
-<td width="25%"><img src="gallery/童话版画.png" alt="童话版画"><br><sub><b>AI 与人类协作的寓言</b><br><i>童话版画</i></sub></td>
+<td width="25%"><img src="gallery/清新治愈弥散剪影.png?v=eb4f6ff2" alt="清新治愈弥散剪影"><br><sub><b>AI 让工作更轻</b><br><i>清新治愈弥散剪影</i></sub></td>
+<td width="25%"><img src="gallery/旅行记忆窗口.png?v=17f6bd51" alt="旅行记忆窗口"><br><sub><b>一家企业的 AI 落地之旅</b><br><i>旅行记忆窗口</i></sub></td>
+<td width="25%"><img src="gallery/早安晚安水彩问候.png?v=b000542a" alt="早安晚安水彩问候"><br><sub><b>你的 AI 员工 7×24 从不打烊</b><br><i>早安晚安水彩问候</i></sub></td>
+<td width="25%"><img src="gallery/童话版画.png?v=36fdc88b" alt="童话版画"><br><sub><b>AI 与人类协作的寓言</b><br><i>童话版画</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/水彩环形放射.png" alt="水彩环形放射"><br><sub><b>智能绽放</b><br><i>水彩环形放射</i></sub></td>
-<td width="25%"><img src="gallery/祝笺仪式感插画.png" alt="祝笺仪式感插画"><br><sub><b>智能纪元</b><br><i>祝笺仪式感插画</i></sub></td>
-<td width="25%"><img src="gallery/柔焦烟灰绿插画.png" alt="柔焦烟灰绿插画"><br><sub><b>雾中少女</b><br><i>柔焦烟灰绿插画</i></sub></td>
-<td width="25%"><img src="gallery/剪影双重曝光叙事海报.png" alt="剪影双重曝光叙事海报"><br><sub><b>山海旅人</b><br><i>剪影双重曝光叙事海报</i></sub></td>
+<td width="25%"><img src="gallery/水彩环形放射.png?v=47a1601b" alt="水彩环形放射"><br><sub><b>智能绽放</b><br><i>水彩环形放射</i></sub></td>
+<td width="25%"><img src="gallery/祝笺仪式感插画.png?v=29820b63" alt="祝笺仪式感插画"><br><sub><b>智能纪元</b><br><i>祝笺仪式感插画</i></sub></td>
+<td width="25%"><img src="gallery/柔焦烟灰绿插画.png?v=7204c98c" alt="柔焦烟灰绿插画"><br><sub><b>雾中少女</b><br><i>柔焦烟灰绿插画</i></sub></td>
+<td width="25%"><img src="gallery/剪影双重曝光叙事海报.png?v=a601af71" alt="剪影双重曝光叙事海报"><br><sub><b>山海旅人</b><br><i>剪影双重曝光叙事海报</i></sub></td>
 </tr>
 </table>
 
@@ -84,16 +84,16 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 
 <table>
 <tr>
-<td width="25%"><img src="gallery/丝网印刷气候海报.png" alt="丝网印刷气候海报"><br><sub><b>数据洪流</b><br><i>丝网印刷气候海报</i></sub></td>
-<td width="25%"><img src="gallery/像素故障信息海报.png" alt="像素故障信息海报"><br><sub><b>没有 AI 的企业正在掉队</b><br><i>像素故障信息海报</i></sub></td>
-<td width="25%"><img src="gallery/复古印刷钝化.png" alt="复古印刷钝化"><br><sub><b>老字号的 AI 转型</b><br><i>复古印刷钝化</i></sub></td>
-<td width="25%"><img src="gallery/杂志拼贴像素刺绣.png" alt="杂志拼贴像素刺绣"><br><sub><b>群体智能</b><br><i>杂志拼贴像素刺绣</i></sub></td>
+<td width="25%"><img src="gallery/丝网印刷气候海报.png?v=0e8aa33f" alt="丝网印刷气候海报"><br><sub><b>数据洪流</b><br><i>丝网印刷气候海报</i></sub></td>
+<td width="25%"><img src="gallery/像素故障信息海报.png?v=708dd96b" alt="像素故障信息海报"><br><sub><b>没有 AI 的企业正在掉队</b><br><i>像素故障信息海报</i></sub></td>
+<td width="25%"><img src="gallery/复古印刷钝化.png?v=0fb21e87" alt="复古印刷钝化"><br><sub><b>老字号的 AI 转型</b><br><i>复古印刷钝化</i></sub></td>
+<td width="25%"><img src="gallery/杂志拼贴像素刺绣.png?v=4e5a8eae" alt="杂志拼贴像素刺绣"><br><sub><b>群体智能</b><br><i>杂志拼贴像素刺绣</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/电影感像素残影手写线.png" alt="电影感像素残影手写线"><br><sub><b>记忆即知识库</b><br><i>电影感像素残影手写线</i></sub></td>
-<td width="25%"><img src="gallery/复古弥散渐变海报.png" alt="复古弥散渐变海报"><br><sub><b>智能涌现</b><br><i>复古弥散渐变海报</i></sub></td>
-<td width="25%"><img src="gallery/高明度信息拼贴.png" alt="高明度信息拼贴"><br><sub><b>AI 系统上线</b><br><i>高明度信息拼贴</i></sub></td>
-<td width="25%"><img src="gallery/日本极简潮玩海报.png" alt="日本极简潮玩海报"><br><sub><b>AI 机器人潮玩</b><br><i>日本极简潮玩海报</i></sub></td>
+<td width="25%"><img src="gallery/电影感像素残影手写线.png?v=b01b8365" alt="电影感像素残影手写线"><br><sub><b>记忆即知识库</b><br><i>电影感像素残影手写线</i></sub></td>
+<td width="25%"><img src="gallery/复古弥散渐变海报.png?v=96dc4df7" alt="复古弥散渐变海报"><br><sub><b>智能涌现</b><br><i>复古弥散渐变海报</i></sub></td>
+<td width="25%"><img src="gallery/高明度信息拼贴.png?v=53416c43" alt="高明度信息拼贴"><br><sub><b>AI 系统上线</b><br><i>高明度信息拼贴</i></sub></td>
+<td width="25%"><img src="gallery/日本极简潮玩海报.png?v=63c6b452" alt="日本极简潮玩海报"><br><sub><b>AI 机器人潮玩</b><br><i>日本极简潮玩海报</i></sub></td>
 </tr>
 </table>
 
@@ -101,13 +101,13 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 
 <table>
 <tr>
-<td width="25%"><img src="gallery/压顶大字商业海报.png" alt="压顶大字商业海报"><br><sub><b>给每个企业配一个 AI 员工</b><br><i>压顶大字商业海报</i></sub></td>
-<td width="25%"><img src="gallery/纸面颗粒巨字PPT.png" alt="纸面颗粒巨字PPT"><br><sub><b>降本增效</b><br><i>纸面颗粒巨字PPT</i></sub></td>
-<td width="25%"><img src="gallery/线条字体狂躁.png" alt="线条字体狂躁"><br><sub><b>效率革命</b><br><i>线条字体狂躁</i></sub></td>
-<td width="25%"><img src="gallery/饮品商业剪贴产品.png" alt="饮品商业剪贴产品"><br><sub><b>AI 效率特饮</b><br><i>饮品商业剪贴产品</i></sub></td>
+<td width="25%"><img src="gallery/压顶大字商业海报.png?v=d6d503e4" alt="压顶大字商业海报"><br><sub><b>给每个企业配一个 AI 员工</b><br><i>压顶大字商业海报</i></sub></td>
+<td width="25%"><img src="gallery/纸面颗粒巨字PPT.png?v=7ee7228e" alt="纸面颗粒巨字PPT"><br><sub><b>降本增效</b><br><i>纸面颗粒巨字PPT</i></sub></td>
+<td width="25%"><img src="gallery/线条字体狂躁.png?v=68716135" alt="线条字体狂躁"><br><sub><b>效率革命</b><br><i>线条字体狂躁</i></sub></td>
+<td width="25%"><img src="gallery/饮品商业剪贴产品.png?v=db5e69ba" alt="饮品商业剪贴产品"><br><sub><b>AI 效率特饮</b><br><i>饮品商业剪贴产品</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/黑夜大字报心理洞察.png" alt="黑夜大字报心理洞察"><br><sub><b>你不是缺人，是缺一个 AI 员工</b><br><i>黑夜大字报心理洞察</i></sub></td>
+<td width="25%"><img src="gallery/黑夜大字报心理洞察.png?v=39501a59" alt="黑夜大字报心理洞察"><br><sub><b>你不是缺人，是缺一个 AI 员工</b><br><i>黑夜大字报心理洞察</i></sub></td>
 </tr>
 </table>
 
@@ -115,19 +115,19 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 
 <table>
 <tr>
-<td width="25%"><img src="gallery/温润材质显影报告封面.png" alt="温润材质显影报告封面"><br><sub><b>2026 企业 AI 落地白皮书</b><br><i>温润材质显影报告封面</i></sub></td>
-<td width="25%"><img src="gallery/纪念碑谷空间字版.png" alt="纪念碑谷空间字版"><br><sub><b>落地</b><br><i>纪念碑谷空间字版</i></sub></td>
-<td width="25%"><img src="gallery/流体玻璃拟态海报.png" alt="流体玻璃拟态海报"><br><sub><b>企业 AI 平台</b><br><i>流体玻璃拟态海报</i></sub></td>
-<td width="25%"><img src="gallery/等距3D微缩世界.png" alt="等距3D微缩世界"><br><sub><b>AI 自动化工作流</b><br><i>等距3D微缩世界</i></sub></td>
+<td width="25%"><img src="gallery/温润材质显影报告封面.png?v=07ef829b" alt="温润材质显影报告封面"><br><sub><b>2026 企业 AI 落地白皮书</b><br><i>温润材质显影报告封面</i></sub></td>
+<td width="25%"><img src="gallery/纪念碑谷空间字版.png?v=24989196" alt="纪念碑谷空间字版"><br><sub><b>落地</b><br><i>纪念碑谷空间字版</i></sub></td>
+<td width="25%"><img src="gallery/流体玻璃拟态海报.png?v=a2d3dda3" alt="流体玻璃拟态海报"><br><sub><b>企业 AI 平台</b><br><i>流体玻璃拟态海报</i></sub></td>
+<td width="25%"><img src="gallery/等距3D微缩世界.png?v=3e3fa792" alt="等距3D微缩世界"><br><sub><b>AI 自动化工作流</b><br><i>等距3D微缩世界</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/新中式描金海报.png" alt="新中式描金海报"><br><sub><b>东方智造 · AI 落地</b><br><i>新中式描金海报</i></sub></td>
-<td width="25%"><img src="gallery/黏土定格微缩世界.png" alt="黏土定格微缩世界"><br><sub><b>AI 数字员工的一天</b><br><i>黏土定格微缩世界</i></sub></td>
-<td width="25%"><img src="gallery/液态铬流体雕塑.png" alt="液态铬流体雕塑"><br><sub><b>AI 内核</b><br><i>液态铬流体雕塑</i></sub></td>
-<td width="25%"><img src="gallery/折纸纸艺立体场景.png" alt="折纸纸艺立体场景"><br><sub><b>AI 落地蓝图</b><br><i>折纸纸艺立体场景</i></sub></td>
+<td width="25%"><img src="gallery/新中式描金海报.png?v=0af0de22" alt="新中式描金海报"><br><sub><b>东方智造 · AI 落地</b><br><i>新中式描金海报</i></sub></td>
+<td width="25%"><img src="gallery/黏土定格微缩世界.png?v=ccc12190" alt="黏土定格微缩世界"><br><sub><b>AI 数字员工的一天</b><br><i>黏土定格微缩世界</i></sub></td>
+<td width="25%"><img src="gallery/液态铬流体雕塑.png?v=430e103c" alt="液态铬流体雕塑"><br><sub><b>AI 内核</b><br><i>液态铬流体雕塑</i></sub></td>
+<td width="25%"><img src="gallery/折纸纸艺立体场景.png?v=8dde782a" alt="折纸纸艺立体场景"><br><sub><b>AI 落地蓝图</b><br><i>折纸纸艺立体场景</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/旅行票券立体场景.png" alt="旅行票券立体场景"><br><sub><b>纽约 All Access</b><br><i>旅行票券立体场景</i></sub></td>
+<td width="25%"><img src="gallery/旅行票券立体场景.png?v=7eb36d5f" alt="旅行票券立体场景"><br><sub><b>纽约 All Access</b><br><i>旅行票券立体场景</i></sub></td>
 </tr>
 </table>
 
@@ -135,22 +135,22 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 
 <table>
 <tr>
-<td width="25%"><img src="gallery/黑白极简概念海报.png" alt="黑白极简概念海报"><br><sub><b>AI 落地</b><br><i>黑白极简概念海报</i></sub></td>
-<td width="25%"><img src="gallery/字词概念海报系统.png" alt="字词概念海报系统"><br><sub><b>智</b><br><i>字词概念海报系统</i></sub></td>
-<td width="25%"><img src="gallery/汉字意象化设计.png" alt="汉字意象化设计"><br><sub><b>能</b><br><i>汉字意象化设计</i></sub></td>
-<td width="25%"><img src="gallery/字骨游线字体设计.png" alt="字骨游线字体设计"><br><sub><b>效</b><br><i>字骨游线字体设计</i></sub></td>
+<td width="25%"><img src="gallery/黑白极简概念海报.png?v=ceaf5da2" alt="黑白极简概念海报"><br><sub><b>AI 落地</b><br><i>黑白极简概念海报</i></sub></td>
+<td width="25%"><img src="gallery/字词概念海报系统.png?v=bcffdb5c" alt="字词概念海报系统"><br><sub><b>智</b><br><i>字词概念海报系统</i></sub></td>
+<td width="25%"><img src="gallery/汉字意象化设计.png?v=5599459a" alt="汉字意象化设计"><br><sub><b>能</b><br><i>汉字意象化设计</i></sub></td>
+<td width="25%"><img src="gallery/字骨游线字体设计.png?v=5614feea" alt="字骨游线字体设计"><br><sub><b>效</b><br><i>字骨游线字体设计</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/实验中文字体秩序切割.png" alt="实验中文字体秩序切割"><br><sub><b>算力</b><br><i>实验中文字体秩序切割</i></sub></td>
-<td width="25%"><img src="gallery/曲线字标双色轨道.png" alt="曲线字标双色轨道"><br><sub><b>增长</b><br><i>曲线字标双色轨道</i></sub></td>
-<td width="25%"><img src="gallery/词语视觉隐喻海报.png" alt="词语视觉隐喻海报"><br><sub><b>人机协同</b><br><i>词语视觉隐喻海报</i></sub></td>
-<td width="25%"><img src="gallery/字体变实体大字报.png" alt="字体变实体大字报"><br><sub><b>拥抱 AI</b><br><i>字体变实体大字报</i></sub></td>
+<td width="25%"><img src="gallery/实验中文字体秩序切割.png?v=573d2519" alt="实验中文字体秩序切割"><br><sub><b>算力</b><br><i>实验中文字体秩序切割</i></sub></td>
+<td width="25%"><img src="gallery/曲线字标双色轨道.png?v=76731f25" alt="曲线字标双色轨道"><br><sub><b>增长</b><br><i>曲线字标双色轨道</i></sub></td>
+<td width="25%"><img src="gallery/词语视觉隐喻海报.png?v=4250b11f" alt="词语视觉隐喻海报"><br><sub><b>人机协同</b><br><i>词语视觉隐喻海报</i></sub></td>
+<td width="25%"><img src="gallery/字体变实体大字报.png?v=511efe6a" alt="字体变实体大字报"><br><sub><b>拥抱 AI</b><br><i>字体变实体大字报</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/夏日手写字体.png" alt="夏日手写字体"><br><sub><b>AI 让企业轻装上阵</b><br><i>夏日手写字体</i></sub></td>
-<td width="25%"><img src="gallery/立体挤出3D大字.png" alt="立体挤出3D大字"><br><sub><b>智能</b><br><i>立体挤出3D大字</i></sub></td>
-<td width="25%"><img src="gallery/铬质Y2K金属字.png" alt="铬质Y2K金属字"><br><sub><b>未来</b><br><i>铬质Y2K金属字</i></sub></td>
-<td width="25%"><img src="gallery/狂草书法墨字.png" alt="狂草书法墨字"><br><sub><b>破局</b><br><i>狂草书法墨字</i></sub></td>
+<td width="25%"><img src="gallery/夏日手写字体.png?v=5fe9b9d0" alt="夏日手写字体"><br><sub><b>AI 让企业轻装上阵</b><br><i>夏日手写字体</i></sub></td>
+<td width="25%"><img src="gallery/立体挤出3D大字.png?v=02b814b8" alt="立体挤出3D大字"><br><sub><b>智能</b><br><i>立体挤出3D大字</i></sub></td>
+<td width="25%"><img src="gallery/铬质Y2K金属字.png?v=6e859a40" alt="铬质Y2K金属字"><br><sub><b>未来</b><br><i>铬质Y2K金属字</i></sub></td>
+<td width="25%"><img src="gallery/狂草书法墨字.png?v=f0ff9155" alt="狂草书法墨字"><br><sub><b>破局</b><br><i>狂草书法墨字</i></sub></td>
 </tr>
 </table>
 
@@ -158,27 +158,27 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 
 <table>
 <tr>
-<td width="25%"><img src="gallery/诗性编辑视觉.png" alt="诗性编辑视觉"><br><sub><b>智能体</b><br><i>诗性编辑视觉</i></sub></td>
-<td width="25%"><img src="gallery/动漫真人化巨物透视.png" alt="动漫真人化巨物透视"><br><sub><b>驾驭巨型 AI 系统</b><br><i>动漫真人化巨物透视</i></sub></td>
-<td width="25%"><img src="gallery/深色幽影矩形窗越界.png" alt="深色幽影矩形窗越界"><br><sub><b>首席 AI 官</b><br><i>深色幽影矩形窗越界</i></sub></td>
-<td width="25%"><img src="gallery/电影悬疑凝视视窗.png" alt="电影悬疑凝视视窗"><br><sub><b>无声的数字员工</b><br><i>电影悬疑凝视视窗</i></sub></td>
+<td width="25%"><img src="gallery/诗性编辑视觉.png?v=886b4946" alt="诗性编辑视觉"><br><sub><b>智能体</b><br><i>诗性编辑视觉</i></sub></td>
+<td width="25%"><img src="gallery/动漫真人化巨物透视.png?v=5aa27355" alt="动漫真人化巨物透视"><br><sub><b>驾驭巨型 AI 系统</b><br><i>动漫真人化巨物透视</i></sub></td>
+<td width="25%"><img src="gallery/深色幽影矩形窗越界.png?v=fcf119f9" alt="深色幽影矩形窗越界"><br><sub><b>首席 AI 官</b><br><i>深色幽影矩形窗越界</i></sub></td>
+<td width="25%"><img src="gallery/电影悬疑凝视视窗.png?v=230583a7" alt="电影悬疑凝视视窗"><br><sub><b>无声的数字员工</b><br><i>电影悬疑凝视视窗</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/杂志感面部三角人像.png" alt="杂志感面部三角人像"><br><sub><b>AI 解决方案架构师</b><br><i>杂志感面部三角人像</i></sub></td>
-<td width="25%"><img src="gallery/信息文化活动斜切几何.png" alt="信息文化活动斜切几何"><br><sub><b>Astralune AI 落地发布会</b><br><i>信息文化活动斜切几何</i></sub></td>
-<td width="25%"><img src="gallery/X字母负形人像.png" alt="X字母负形人像"><br><sub><b>提示词工程师</b><br><i>X字母负形人像</i></sub></td>
-<td width="25%"><img src="gallery/清透刊物半透明色块.png" alt="清透刊物半透明色块"><br><sub><b>AI 产品经理</b><br><i>清透刊物半透明色块</i></sub></td>
+<td width="25%"><img src="gallery/杂志感面部三角人像.png?v=32d49c6d" alt="杂志感面部三角人像"><br><sub><b>AI 解决方案架构师</b><br><i>杂志感面部三角人像</i></sub></td>
+<td width="25%"><img src="gallery/信息文化活动斜切几何.png?v=d351dec3" alt="信息文化活动斜切几何"><br><sub><b>Astralune AI 落地发布会</b><br><i>信息文化活动斜切几何</i></sub></td>
+<td width="25%"><img src="gallery/X字母负形人像.png?v=d2beec70" alt="X字母负形人像"><br><sub><b>提示词工程师</b><br><i>X字母负形人像</i></sub></td>
+<td width="25%"><img src="gallery/清透刊物半透明色块.png?v=b4e156cb" alt="清透刊物半透明色块"><br><sub><b>AI 产品经理</b><br><i>清透刊物半透明色块</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/可爱人像图文.png" alt="可爱人像图文"><br><sub><b>你的 AI 数字员工</b><br><i>可爱人像图文</i></sub></td>
-<td width="25%"><img src="gallery/人像写真夏日空气.png" alt="人像写真夏日空气"><br><sub><b>AI 训练师</b><br><i>人像写真夏日空气</i></sub></td>
-<td width="25%"><img src="gallery/民国名媛淡彩仕女.png" alt="民国名媛淡彩仕女"><br><sub><b>AI 数字人主播</b><br><i>民国名媛淡彩仕女</i></sub></td>
-<td width="25%"><img src="gallery/双重曝光数据人像.png" alt="双重曝光数据人像"><br><sub><b>数字孪生</b><br><i>双重曝光数据人像</i></sub></td>
+<td width="25%"><img src="gallery/可爱人像图文.png?v=d7ee3c96" alt="可爱人像图文"><br><sub><b>你的 AI 数字员工</b><br><i>可爱人像图文</i></sub></td>
+<td width="25%"><img src="gallery/人像写真夏日空气.png?v=d618a4d0" alt="人像写真夏日空气"><br><sub><b>AI 训练师</b><br><i>人像写真夏日空气</i></sub></td>
+<td width="25%"><img src="gallery/民国名媛淡彩仕女.png?v=e6b3e4fa" alt="民国名媛淡彩仕女"><br><sub><b>AI 数字人主播</b><br><i>民国名媛淡彩仕女</i></sub></td>
+<td width="25%"><img src="gallery/双重曝光数据人像.png?v=dfa9dbf7" alt="双重曝光数据人像"><br><sub><b>数字孪生</b><br><i>双重曝光数据人像</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/单色肖像彩色眼镜.png" alt="单色肖像彩色眼镜"><br><sub><b>单色 × 琥珀镜</b><br><i>单色肖像彩色眼镜</i></sub></td>
-<td width="25%"><img src="gallery/未来感时尚拼贴.png" alt="未来感时尚拼贴"><br><sub><b>未来街拍拼贴</b><br><i>未来感时尚拼贴</i></sub></td>
-<td width="25%"><img src="gallery/Y2K日系街头拼贴海报.png" alt="Y2K日系街头拼贴海报"><br><sub><b>東京 STREET CODE</b><br><i>Y2K日系街头拼贴海报</i></sub></td>
+<td width="25%"><img src="gallery/单色肖像彩色眼镜.png?v=150e9159" alt="单色肖像彩色眼镜"><br><sub><b>单色 × 琥珀镜</b><br><i>单色肖像彩色眼镜</i></sub></td>
+<td width="25%"><img src="gallery/未来感时尚拼贴.png?v=025910bc" alt="未来感时尚拼贴"><br><sub><b>未来街拍拼贴</b><br><i>未来感时尚拼贴</i></sub></td>
+<td width="25%"><img src="gallery/Y2K日系街头拼贴海报.png?v=62b68288" alt="Y2K日系街头拼贴海报"><br><sub><b>東京 STREET CODE</b><br><i>Y2K日系街头拼贴海报</i></sub></td>
 </tr>
 </table>
 
@@ -186,16 +186,16 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 
 <table>
 <tr>
-<td width="25%"><img src="gallery/柔光CCD夜色街拍.png" alt="柔光CCD夜色街拍"><br><sub><b>夜色都市街拍</b><br><i>柔光CCD夜色街拍</i></sub></td>
-<td width="25%"><img src="gallery/香港夜景全身旅拍.png" alt="香港夜景全身旅拍"><br><sub><b>香港维港夜景旅拍</b><br><i>香港夜景全身旅拍</i></sub></td>
-<td width="25%"><img src="gallery/韩系豪车人像.png" alt="韩系豪车人像"><br><sub><b>韩系豪车写真</b><br><i>韩系豪车人像</i></sub></td>
-<td width="25%"><img src="gallery/韩系街拍墨镜自拍.png" alt="韩系街拍墨镜自拍"><br><sub><b>韩系街拍自拍</b><br><i>韩系街拍墨镜自拍</i></sub></td>
+<td width="25%"><img src="gallery/柔光CCD夜色街拍.png?v=24b88683" alt="柔光CCD夜色街拍"><br><sub><b>夜色都市街拍</b><br><i>柔光CCD夜色街拍</i></sub></td>
+<td width="25%"><img src="gallery/香港夜景全身旅拍.png?v=107ae9c2" alt="香港夜景全身旅拍"><br><sub><b>香港维港夜景旅拍</b><br><i>香港夜景全身旅拍</i></sub></td>
+<td width="25%"><img src="gallery/韩系豪车人像.png?v=ea6600bf" alt="韩系豪车人像"><br><sub><b>韩系豪车写真</b><br><i>韩系豪车人像</i></sub></td>
+<td width="25%"><img src="gallery/韩系街拍墨镜自拍.png?v=24f5859b" alt="韩系街拍墨镜自拍"><br><sub><b>韩系街拍自拍</b><br><i>韩系街拍墨镜自拍</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/韩系暗调情绪写真.png" alt="韩系暗调情绪写真"><br><sub><b>暗调情绪写真</b><br><i>韩系暗调情绪写真</i></sub></td>
-<td width="25%"><img src="gallery/idol九宫格写真.png" alt="idol九宫格写真"><br><sub><b>idol 九宫格写真</b><br><i>idol九宫格写真</i></sub></td>
-<td width="25%"><img src="gallery/暗调电影感人像.png" alt="暗调电影感人像"><br><sub><b>暗调电影人像</b><br><i>暗调电影感人像</i></sub></td>
-<td width="25%"><img src="gallery/旅行随手拍拼贴.png" alt="旅行随手拍拼贴"><br><sub><b>旅行随手拍</b><br><i>旅行随手拍拼贴</i></sub></td>
+<td width="25%"><img src="gallery/韩系暗调情绪写真.png?v=e23f4c3e" alt="韩系暗调情绪写真"><br><sub><b>暗调情绪写真</b><br><i>韩系暗调情绪写真</i></sub></td>
+<td width="25%"><img src="gallery/idol九宫格写真.png?v=9c5f9713" alt="idol九宫格写真"><br><sub><b>idol 九宫格写真</b><br><i>idol九宫格写真</i></sub></td>
+<td width="25%"><img src="gallery/暗调电影感人像.png?v=fa3171f9" alt="暗调电影感人像"><br><sub><b>暗调电影人像</b><br><i>暗调电影感人像</i></sub></td>
+<td width="25%"><img src="gallery/旅行随手拍拼贴.png?v=994153a8" alt="旅行随手拍拼贴"><br><sub><b>旅行随手拍</b><br><i>旅行随手拍拼贴</i></sub></td>
 </tr>
 </table>
 
@@ -203,8 +203,8 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 
 <table>
 <tr>
-<td width="25%"><img src="gallery/编辑衬线角色海报.png" alt="编辑衬线角色海报"><br><sub><b>数字员工 ASTRA</b><br><i>编辑衬线角色海报</i></sub></td>
-<td width="25%"><img src="gallery/编辑衬线角色海报_akali.png" alt="编辑衬线角色海报"><br><sub><b>暗夜刺客 阿卡丽</b><br><i>编辑衬线角色海报</i></sub></td>
+<td width="25%"><img src="gallery/编辑衬线角色海报.png?v=c03ac2a0" alt="编辑衬线角色海报"><br><sub><b>数字员工 ASTRA</b><br><i>编辑衬线角色海报</i></sub></td>
+<td width="25%"><img src="gallery/编辑衬线角色海报_akali.png?v=5ef08537" alt="编辑衬线角色海报"><br><sub><b>暗夜刺客 阿卡丽</b><br><i>编辑衬线角色海报</i></sub></td>
 </tr>
 </table>
 
@@ -212,8 +212,8 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 
 <table>
 <tr>
-<td width="25%"><img src="gallery/长文转图30秒看懂.png" alt="长文转图30秒看懂"><br><sub><b>企业为什么要专属的 AI 员工？</b><br><i>长文转图30秒看懂</i></sub></td>
-<td width="25%"><img src="gallery/手写学习笔记.png" alt="手写学习笔记"><br><sub><b>机器学习入门</b><br><i>手写学习笔记</i></sub></td>
+<td width="25%"><img src="gallery/长文转图30秒看懂.png?v=39cda6b5" alt="长文转图30秒看懂"><br><sub><b>企业为什么要专属的 AI 员工？</b><br><i>长文转图30秒看懂</i></sub></td>
+<td width="25%"><img src="gallery/手写学习笔记.png?v=6cb2e3bb" alt="手写学习笔记"><br><sub><b>机器学习入门</b><br><i>手写学习笔记</i></sub></td>
 </tr>
 </table>
 
@@ -221,9 +221,9 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 
 <table>
 <tr>
-<td width="25%"><img src="gallery/科研信息图.png" alt="科研信息图"><br><sub><b>大语言模型工作原理</b><br><i>科研信息图</i></sub></td>
-<td width="25%"><img src="gallery/科研论文插图.png" alt="科研论文插图"><br><sub><b>Transformer 注意力机制</b><br><i>科研论文插图</i></sub></td>
-<td width="25%"><img src="gallery/科研杂志封面图.png" alt="科研杂志封面图"><br><sub><b>神经网络</b><br><i>科研杂志封面图</i></sub></td>
+<td width="25%"><img src="gallery/科研信息图.png?v=227ca9e3" alt="科研信息图"><br><sub><b>大语言模型工作原理</b><br><i>科研信息图</i></sub></td>
+<td width="25%"><img src="gallery/科研论文插图.png?v=c77da76d" alt="科研论文插图"><br><sub><b>Transformer 注意力机制</b><br><i>科研论文插图</i></sub></td>
+<td width="25%"><img src="gallery/科研杂志封面图.png?v=8fc3c524" alt="科研杂志封面图"><br><sub><b>神经网络</b><br><i>科研杂志封面图</i></sub></td>
 </tr>
 </table>
 
@@ -231,9 +231,9 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 
 <table>
 <tr>
-<td width="25%"><img src="gallery/个性化发型推荐报告.png" alt="个性化发型推荐报告"><br><sub><b>AI 个人形象设计报告</b><br><i>个性化发型推荐报告</i></sub></td>
-<td width="25%"><img src="gallery/玄学批注分析报告.png" alt="玄学批注分析报告"><br><sub><b>面相·综合分析报告</b><br><i>玄学批注分析报告</i></sub></td>
-<td width="25%"><img src="gallery/专业空间轴测图.png" alt="专业空间轴测图"><br><sub><b>Astralune AI 数据中心</b><br><i>专业空间轴测图</i></sub></td>
+<td width="25%"><img src="gallery/个性化发型推荐报告.png?v=a9607ebf" alt="个性化发型推荐报告"><br><sub><b>AI 个人形象设计报告</b><br><i>个性化发型推荐报告</i></sub></td>
+<td width="25%"><img src="gallery/玄学批注分析报告.png?v=e484959d" alt="玄学批注分析报告"><br><sub><b>面相·综合分析报告</b><br><i>玄学批注分析报告</i></sub></td>
+<td width="25%"><img src="gallery/专业空间轴测图.png?v=483d2e4e" alt="专业空间轴测图"><br><sub><b>Astralune AI 数据中心</b><br><i>专业空间轴测图</i></sub></td>
 </tr>
 </table>
 
@@ -241,10 +241,10 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 
 <table>
 <tr>
-<td width="25%"><img src="gallery/竖版像素暗场.png" alt="竖版像素暗场"><br><sub><b>AI 推理服务器</b><br><i>竖版像素暗场</i></sub></td>
-<td width="25%"><img src="gallery/纸本线描手稿.png" alt="纸本线描手稿"><br><sub><b>AI 数据中心</b><br><i>纸本线描手稿</i></sub></td>
-<td width="25%"><img src="gallery/极简黑色手绘线描.png" alt="极简黑色手绘线描"><br><sub><b>和 AI 协作</b><br><i>极简黑色手绘线描</i></sub></td>
-<td width="25%"><img src="gallery/笨拙手绘.png" alt="笨拙手绘"><br><sub><b>我和我的 AI 小助手</b><br><i>笨拙手绘</i></sub></td>
+<td width="25%"><img src="gallery/竖版像素暗场.png?v=147272cc" alt="竖版像素暗场"><br><sub><b>AI 推理服务器</b><br><i>竖版像素暗场</i></sub></td>
+<td width="25%"><img src="gallery/纸本线描手稿.png?v=49effe22" alt="纸本线描手稿"><br><sub><b>AI 数据中心</b><br><i>纸本线描手稿</i></sub></td>
+<td width="25%"><img src="gallery/极简黑色手绘线描.png?v=11b96ba8" alt="极简黑色手绘线描"><br><sub><b>和 AI 协作</b><br><i>极简黑色手绘线描</i></sub></td>
+<td width="25%"><img src="gallery/笨拙手绘.png?v=49aeca3e" alt="笨拙手绘"><br><sub><b>我和我的 AI 小助手</b><br><i>笨拙手绘</i></sub></td>
 </tr>
 </table>
 <!-- GALLERY:END -->
