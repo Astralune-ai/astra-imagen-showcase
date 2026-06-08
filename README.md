@@ -121,6 +121,9 @@
 <td width="25%"><img src="gallery/液态铬流体雕塑.png" alt="液态铬流体雕塑"><br><sub><b>AI 内核</b><br><i>液态铬流体雕塑</i></sub></td>
 <td width="25%"><img src="gallery/折纸纸艺立体场景.png" alt="折纸纸艺立体场景"><br><sub><b>AI 落地蓝图</b><br><i>折纸纸艺立体场景</i></sub></td>
 </tr>
+<tr>
+<td width="25%"><img src="gallery/旅行票券立体场景.png" alt="旅行票券立体场景"><br><sub><b>纽约 All Access</b><br><i>旅行票券立体场景</i></sub></td>
+</tr>
 </table>
 
 ### 字体海报 · 把字做成视觉
@@ -175,6 +178,7 @@
 <tr>
 <td width="25%"><img src="gallery/柔光CCD夜色街拍.png" alt="柔光CCD夜色街拍"><br><sub><b>夜色都市街拍</b><br><i>柔光CCD夜色街拍</i></sub></td>
 <td width="25%"><img src="gallery/香港夜景全身旅拍.png" alt="香港夜景全身旅拍"><br><sub><b>香港维港夜景旅拍</b><br><i>香港夜景全身旅拍</i></sub></td>
+<td width="25%"><img src="gallery/韩系豪车人像.png" alt="韩系豪车人像"><br><sub><b>韩系豪车写真</b><br><i>韩系豪车人像</i></sub></td>
 </tr>
 </table>
 
@@ -380,6 +384,13 @@ gpt-image-2 接受任意宽高（只要都能被 16 整除）。引擎按你要�
 
 ---
 
+
+---
+
+## 贡献者 · Contributors
+
+- **Amber Xu** · [@Amberchen0](https://github.com/Amberchen0) — Multidisciplinary visual designer, Sydney｜视觉设计 · 模板美学方向
+- **Asher** · [@yzha0302](https://github.com/yzha0302) — 引擎 · 提示词库 · 系统架构
 
 ---
 
