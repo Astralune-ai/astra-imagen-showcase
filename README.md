@@ -48,6 +48,8 @@
 <tr>
 <td width="25%"><img src="gallery/高密度手绘线描.png" alt="高密度手绘线描"><br><sub><b>被 AI 理顺的业务流程</b><br><i>高密度手绘线描</i></sub></td>
 <td width="25%"><img src="gallery/艺术展览级创意.png" alt="艺术展览级创意"><br><sub><b>数据生命体</b><br><i>艺术展览级创意</i></sub></td>
+<td width="25%"><img src="gallery/街头编辑拼贴海报.png" alt="街头编辑拼贴海报"><br><sub><b>PERCEIVE</b><br><i>街头编辑拼贴海报</i></sub></td>
+<td width="25%"><img src="gallery/毛绒汽水罐产品.png" alt="毛绒汽水罐产品"><br><sub><b>毛绒汽水罐</b><br><i>毛绒汽水罐产品</i></sub></td>
 </tr>
 </table>
 
@@ -69,6 +71,7 @@
 <tr>
 <td width="25%"><img src="gallery/水彩环形放射.png" alt="水彩环形放射"><br><sub><b>智能绽放</b><br><i>水彩环形放射</i></sub></td>
 <td width="25%"><img src="gallery/祝笺仪式感插画.png" alt="祝笺仪式感插画"><br><sub><b>智能纪元</b><br><i>祝笺仪式感插画</i></sub></td>
+<td width="25%"><img src="gallery/柔焦烟灰绿插画.png" alt="柔焦烟灰绿插画"><br><sub><b>雾中少女</b><br><i>柔焦烟灰绿插画</i></sub></td>
 </tr>
 </table>
 
@@ -168,6 +171,7 @@
 <table>
 <tr>
 <td width="25%"><img src="gallery/柔光CCD夜色街拍.png" alt="柔光CCD夜色街拍"><br><sub><b>夜色都市街拍</b><br><i>柔光CCD夜色街拍</i></sub></td>
+<td width="25%"><img src="gallery/香港夜景全身旅拍.png" alt="香港夜景全身旅拍"><br><sub><b>香港维港夜景旅拍</b><br><i>香港夜景全身旅拍</i></sub></td>
 </tr>
 </table>
 
