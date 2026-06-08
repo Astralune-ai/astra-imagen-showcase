@@ -22,6 +22,8 @@
 
 
 
+<!-- GALLERY:START -->
+
 ### 海报可视化 · 概念与场景
 
 <table>
@@ -147,9 +149,7 @@
 <td width="25%"><img src="gallery/双重曝光数据人像.png" alt="双重曝光数据人像"><br><sub><b>数字孪生</b><br><i>双重曝光数据人像</i></sub></td>
 </tr>
 </table>
-
----
-
+<!-- GALLERY:END -->
 
 ## 它是怎么做到的 · 和别的生图工具不一样在哪
 
