@@ -178,6 +178,7 @@
 <tr>
 <td width="25%"><img src="gallery/单色肖像彩色眼镜.png" alt="单色肖像彩色眼镜"><br><sub><b>单色 × 琥珀镜</b><br><i>单色肖像彩色眼镜</i></sub></td>
 <td width="25%"><img src="gallery/未来感时尚拼贴.png" alt="未来感时尚拼贴"><br><sub><b>未来街拍拼贴</b><br><i>未来感时尚拼贴</i></sub></td>
+<td width="25%"><img src="gallery/Y2K日系街头拼贴海报.png" alt="Y2K日系街头拼贴海报"><br><sub><b>東京 STREET CODE</b><br><i>Y2K日系街头拼贴海报</i></sub></td>
 </tr>
 </table>
 
@@ -193,6 +194,8 @@
 <tr>
 <td width="25%"><img src="gallery/韩系暗调情绪写真.png" alt="韩系暗调情绪写真"><br><sub><b>暗调情绪写真</b><br><i>韩系暗调情绪写真</i></sub></td>
 <td width="25%"><img src="gallery/idol九宫格写真.png" alt="idol九宫格写真"><br><sub><b>idol 九宫格写真</b><br><i>idol九宫格写真</i></sub></td>
+<td width="25%"><img src="gallery/暗调电影感人像.png" alt="暗调电影感人像"><br><sub><b>暗调电影人像</b><br><i>暗调电影感人像</i></sub></td>
+<td width="25%"><img src="gallery/旅行随手拍拼贴.png" alt="旅行随手拍拼贴"><br><sub><b>旅行随手拍</b><br><i>旅行随手拍拼贴</i></sub></td>
 </tr>
 </table>
 
