@@ -16,7 +16,7 @@
 
 ---
 
-## 看图说话 · 67 个模板，67 种视觉语言，全 9:16
+## 看图说话 · 69 个模板，69 种视觉语言，全 9:16
 
 > 同一套引擎，一个模板一张图，主题都围绕 **AI 企业应用 / AI 落地**。版面全部由模型自己排，人物用同一张脸演绎几十种风格。
 
@@ -150,6 +150,14 @@
 <td width="25%"><img src="gallery/人像写真夏日空气.png" alt="人像写真夏日空气"><br><sub><b>AI 训练师</b><br><i>人像写真夏日空气</i></sub></td>
 <td width="25%"><img src="gallery/民国名媛淡彩仕女.png" alt="民国名媛淡彩仕女"><br><sub><b>AI 数字人主播</b><br><i>民国名媛淡彩仕女</i></sub></td>
 <td width="25%"><img src="gallery/双重曝光数据人像.png" alt="双重曝光数据人像"><br><sub><b>数字孪生</b><br><i>双重曝光数据人像</i></sub></td>
+</tr>
+</table>
+
+### 生活写实 · 像真照片的一帧
+
+<table>
+<tr>
+<td width="25%"><img src="gallery/柔光CCD夜色街拍.png" alt="柔光CCD夜色街拍"><br><sub><b>夜色都市街拍</b><br><i>柔光CCD夜色街拍</i></sub></td>
 </tr>
 </table>
 <!-- GALLERY:END -->
