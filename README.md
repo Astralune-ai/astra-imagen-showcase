@@ -54,6 +54,8 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <tr>
 <td width="25%"><img src="gallery/极简未来主义科幻.png?v=328de0ad" alt="极简未来主义科幻"><br><sub><b>AI 哨兵</b><br><i>极简未来主义科幻</i></sub></td>
 <td width="25%"><img src="gallery/奢侈时尚字体海报.png?v=f29f441a" alt="奢侈时尚字体海报"><br><sub><b>ASTRALUNE</b><br><i>奢侈时尚字体海报</i></sub></td>
+<td width="25%"><img src="gallery/超现实巨物尺度.png?v=341e427a" alt="超现实巨物尺度"><br><sub><b>AI 之上</b><br><i>超现实巨物尺度</i></sub></td>
+<td width="25%"><img src="gallery/构成主义几何宣言.png?v=15e90ed2" alt="构成主义几何宣言"><br><sub><b>智能革命</b><br><i>构成主义几何宣言</i></sub></td>
 </tr>
 </table>
 
@@ -108,6 +110,9 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 </tr>
 <tr>
 <td width="25%"><img src="gallery/黑夜大字报心理洞察.png?v=39501a59" alt="黑夜大字报心理洞察"><br><sub><b>你不是缺人，是缺一个 AI 员工</b><br><i>黑夜大字报心理洞察</i></sub></td>
+<td width="25%"><img src="gallery/霓虹招牌大字.png?v=53d13dbb" alt="霓虹招牌大字"><br><sub><b>AI 不打烊</b><br><i>霓虹招牌大字</i></sub></td>
+<td width="25%"><img src="gallery/金属冲压发布大字.png?v=ed7c5260" alt="金属冲压发布大字"><br><sub><b>智能上线</b><br><i>金属冲压发布大字</i></sub></td>
+<td width="25%"><img src="gallery/撞色几何标语.png?v=45f575dd" alt="撞色几何标语"><br><sub><b>未来已来</b><br><i>撞色几何标语</i></sub></td>
 </tr>
 </table>
 
@@ -128,6 +133,9 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 </tr>
 <tr>
 <td width="25%"><img src="gallery/旅行票券立体场景.png?v=7eb36d5f" alt="旅行票券立体场景"><br><sub><b>纽约 All Access</b><br><i>旅行票券立体场景</i></sub></td>
+<td width="25%"><img src="gallery/水晶矿簇3D.png?v=b21b0559" alt="水晶矿簇3D"><br><sub><b>数据结晶</b><br><i>水晶矿簇3D</i></sub></td>
+<td width="25%"><img src="gallery/针织毛线立体世界.png?v=3154adbc" alt="针织毛线立体世界"><br><sub><b>温暖的 AI 员工</b><br><i>针织毛线立体世界</i></sub></td>
+<td width="25%"><img src="gallery/大理石数字雕塑.png?v=e72f953c" alt="大理石数字雕塑"><br><sub><b>数字缪斯</b><br><i>大理石数字雕塑</i></sub></td>
 </tr>
 </table>
 
@@ -179,6 +187,7 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/单色肖像彩色眼镜.png?v=150e9159" alt="单色肖像彩色眼镜"><br><sub><b>单色 × 琥珀镜</b><br><i>单色肖像彩色眼镜</i></sub></td>
 <td width="25%"><img src="gallery/未来感时尚拼贴.png?v=025910bc" alt="未来感时尚拼贴"><br><sub><b>未来街拍拼贴</b><br><i>未来感时尚拼贴</i></sub></td>
 <td width="25%"><img src="gallery/Y2K日系街头拼贴海报.png?v=62b68288" alt="Y2K日系街头拼贴海报"><br><sub><b>東京 STREET CODE</b><br><i>Y2K日系街头拼贴海报</i></sub></td>
+<td width="25%"><img src="gallery/光影栅格切割人像.png?v=23784817" alt="光影栅格切割人像"><br><sub><b>首席 AI 官</b><br><i>光影栅格切割人像</i></sub></td>
 </tr>
 </table>
 
