@@ -62,6 +62,12 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/超现实巨物尺度.png?v=341e427a" alt="超现实巨物尺度"><br><sub><b>AI 之上</b><br><i>超现实巨物尺度</i></sub></td>
 <td width="25%"><img src="gallery/构成主义几何宣言.png?v=15e90ed2" alt="构成主义几何宣言"><br><sub><b>智能革命</b><br><i>构成主义几何宣言</i></sub></td>
 </tr>
+<tr>
+<td width="25%"><img src="gallery/折面菱形开窗仰视.png?v=f79b98ae" alt="折面菱形开窗仰视"><br><sub><b>把决策交给 AI</b><br><i>折面菱形开窗仰视</i></sub></td>
+<td width="25%"><img src="gallery/鱼眼视窗冲击海报.png?v=7dacf384" alt="鱼眼视窗冲击海报"><br><sub><b>AI 正在靠近</b><br><i>鱼眼视窗冲击海报</i></sub></td>
+<td width="25%"><img src="gallery/缝隙窥视悬疑海报.png?v=0c7465b6" alt="缝隙窥视悬疑海报"><br><sub><b>藏不住的智能</b><br><i>缝隙窥视悬疑海报</i></sub></td>
+<td width="25%"><img src="gallery/电影感叠影海报.png?v=74154ea0" alt="电影感叠影海报"><br><sub><b>看见看不见的</b><br><i>电影感叠影海报</i></sub></td>
+</tr>
 </table>
 
 ### 氛围插画 · 治愈与东方
@@ -102,6 +108,10 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/高明度信息拼贴.png?v=53416c43" alt="高明度信息拼贴"><br><sub><b>AI 系统上线</b><br><i>高明度信息拼贴</i></sub></td>
 <td width="25%"><img src="gallery/日本极简潮玩海报.png?v=63c6b452" alt="日本极简潮玩海报"><br><sub><b>AI 机器人潮玩</b><br><i>日本极简潮玩海报</i></sub></td>
 </tr>
+<tr>
+<td width="25%"><img src="gallery/半调网点墨镜肖像.png?v=f90301cb" alt="半调网点墨镜肖像"><br><sub><b>数据在眼里</b><br><i>半调网点墨镜肖像</i></sub></td>
+<td width="25%"><img src="gallery/高压杂志拼贴封面.png?v=40bc6d8b" alt="高压杂志拼贴封面"><br><sub><b>智能上新</b><br><i>高压杂志拼贴封面</i></sub></td>
+</tr>
 </table>
 
 ### 商业大字 · 传播与发布
@@ -118,6 +128,10 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/霓虹招牌大字.png?v=53d13dbb" alt="霓虹招牌大字"><br><sub><b>AI 不打烊</b><br><i>霓虹招牌大字</i></sub></td>
 <td width="25%"><img src="gallery/金属冲压发布大字.png?v=ed7c5260" alt="金属冲压发布大字"><br><sub><b>智能上线</b><br><i>金属冲压发布大字</i></sub></td>
 <td width="25%"><img src="gallery/撞色几何标语.png?v=45f575dd" alt="撞色几何标语"><br><sub><b>未来已来</b><br><i>撞色几何标语</i></sub></td>
+</tr>
+<tr>
+<td width="25%"><img src="gallery/清透留白商业信息.png?v=32394df0" alt="清透留白商业信息"><br><sub><b>给团队配个 AI</b><br><i>清透留白商业信息</i></sub></td>
+<td width="25%"><img src="gallery/清透微缩饮品广告.png?v=466c3a21" alt="清透微缩饮品广告"><br><sub><b>一口上手的 AI</b><br><i>清透微缩饮品广告</i></sub></td>
 </tr>
 </table>
 
@@ -165,6 +179,9 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/铬质Y2K金属字.png?v=6e859a40" alt="铬质Y2K金属字"><br><sub><b>未来</b><br><i>铬质Y2K金属字</i></sub></td>
 <td width="25%"><img src="gallery/狂草书法墨字.png?v=f0ff9155" alt="狂草书法墨字"><br><sub><b>破局</b><br><i>狂草书法墨字</i></sub></td>
 </tr>
+<tr>
+<td width="25%"><img src="gallery/几何拆字刀功体.png?v=c46db673" alt="几何拆字刀功体"><br><sub><b>涌现</b><br><i>几何拆字刀功体</i></sub></td>
+</tr>
 </table>
 
 ### 人物 · 同一张脸，60 种视觉语言
@@ -193,6 +210,12 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/未来感时尚拼贴.png?v=025910bc" alt="未来感时尚拼贴"><br><sub><b>未来街拍拼贴</b><br><i>未来感时尚拼贴</i></sub></td>
 <td width="25%"><img src="gallery/Y2K日系街头拼贴海报.png?v=62b68288" alt="Y2K日系街头拼贴海报"><br><sub><b>東京 STREET CODE</b><br><i>Y2K日系街头拼贴海报</i></sub></td>
 <td width="25%"><img src="gallery/光影栅格切割人像.png?v=23784817" alt="光影栅格切割人像"><br><sub><b>首席 AI 官</b><br><i>光影栅格切割人像</i></sub></td>
+</tr>
+<tr>
+<td width="25%"><img src="gallery/俯视街头反差海报.png?v=5b1037c3" alt="俯视街头反差海报"><br><sub><b>看清再快</b><br><i>俯视街头反差海报</i></sub></td>
+<td width="25%"><img src="gallery/高明度涂鸦人像.png?v=c48e3357" alt="高明度涂鸦人像"><br><sub><b>效率拉满</b><br><i>高明度涂鸦人像</i></sub></td>
+<td width="25%"><img src="gallery/巨型数字凹槽纪念封面.png?v=fff75e3a" alt="巨型数字凹槽纪念封面"><br><sub><b>AI 上线 1 周年</b><br><i>巨型数字凹槽纪念封面</i></sub></td>
+<td width="25%"><img src="gallery/图文贴纸拼贴海报.png?v=90a4e8b0" alt="图文贴纸拼贴海报"><br><sub><b>来试一下 AI</b><br><i>图文贴纸拼贴海报</i></sub></td>
 </tr>
 </table>
 
