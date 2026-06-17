@@ -126,12 +126,8 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <tr>
 <td width="25%"><img src="gallery/黑夜大字报心理洞察.png?v=39501a59" alt="黑夜大字报心理洞察"><br><sub><b>你不是缺人，是缺一个 AI 员工</b><br><i>黑夜大字报心理洞察</i></sub></td>
 <td width="25%"><img src="gallery/霓虹招牌大字.png?v=53d13dbb" alt="霓虹招牌大字"><br><sub><b>AI 不打烊</b><br><i>霓虹招牌大字</i></sub></td>
-<td width="25%"><img src="gallery/金属冲压发布大字.png?v=ed7c5260" alt="金属冲压发布大字"><br><sub><b>智能上线</b><br><i>金属冲压发布大字</i></sub></td>
 <td width="25%"><img src="gallery/撞色几何标语.png?v=45f575dd" alt="撞色几何标语"><br><sub><b>未来已来</b><br><i>撞色几何标语</i></sub></td>
-</tr>
-<tr>
 <td width="25%"><img src="gallery/充气软体气球大字.png?v=cca3c276" alt="充气软体气球大字"><br><sub><b>AI 来了</b><br><i>充气软体气球大字</i></sub></td>
-<td width="25%"><img src="gallery/混凝土浇筑刻字大字.png?v=6820bba1" alt="混凝土浇筑刻字大字"><br><sub><b>AI 基建</b><br><i>混凝土浇筑刻字大字</i></sub></td>
 </tr>
 </table>
 
