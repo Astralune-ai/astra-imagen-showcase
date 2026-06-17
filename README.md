@@ -130,8 +130,8 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/撞色几何标语.png?v=45f575dd" alt="撞色几何标语"><br><sub><b>未来已来</b><br><i>撞色几何标语</i></sub></td>
 </tr>
 <tr>
-<td width="25%"><img src="gallery/清透留白商业信息.png?v=32394df0" alt="清透留白商业信息"><br><sub><b>给团队配个 AI</b><br><i>清透留白商业信息</i></sub></td>
-<td width="25%"><img src="gallery/清透微缩饮品广告.png?v=466c3a21" alt="清透微缩饮品广告"><br><sub><b>一口上手的 AI</b><br><i>清透微缩饮品广告</i></sub></td>
+<td width="25%"><img src="gallery/充气软体气球大字.png?v=cca3c276" alt="充气软体气球大字"><br><sub><b>AI 来了</b><br><i>充气软体气球大字</i></sub></td>
+<td width="25%"><img src="gallery/混凝土浇筑刻字大字.png?v=6820bba1" alt="混凝土浇筑刻字大字"><br><sub><b>AI 基建</b><br><i>混凝土浇筑刻字大字</i></sub></td>
 </tr>
 </table>
 
