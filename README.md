@@ -118,6 +118,7 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/半调网点墨镜肖像.png?v=f90301cb" alt="半调网点墨镜肖像"><br><sub><b>数据在眼里</b><br><i>半调网点墨镜肖像</i></sub></td>
 <td width="25%"><img src="gallery/高压杂志拼贴封面.png?v=40bc6d8b" alt="高压杂志拼贴封面"><br><sub><b>智能上新</b><br><i>高压杂志拼贴封面</i></sub></td>
 <td width="25%"><img src="gallery/半调网点图形留白.png?v=411d6670" alt="半调网点图形留白"><br><sub><b>算力</b><br><i>半调网点图形留白</i></sub></td>
+<td width="25%"><img src="gallery/单色旧版巨字叙事封面.png?v=e516b39d" alt="单色旧版巨字叙事封面"><br><sub><b>智能觉醒</b><br><i>单色旧版巨字叙事封面</i></sub></td>
 </tr>
 </table>
 
@@ -185,6 +186,7 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <tr>
 <td width="25%"><img src="gallery/几何拆字刀功体.png?v=c46db673" alt="几何拆字刀功体"><br><sub><b>涌现</b><br><i>几何拆字刀功体</i></sub></td>
 <td width="25%"><img src="gallery/垂落细线字形装置.png?v=0df8ec35" alt="垂落细线字形装置"><br><sub><b>神经网络</b><br><i>垂落细线字形装置</i></sub></td>
+<td width="25%"><img src="gallery/冷峻展览失焦巨形.png?v=a1e29b5d" alt="冷峻展览失焦巨形"><br><sub><b>模型</b><br><i>冷峻展览失焦巨形</i></sub></td>
 </tr>
 </table>
 
