@@ -68,6 +68,9 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/缝隙窥视悬疑海报.png?v=0c7465b6" alt="缝隙窥视悬疑海报"><br><sub><b>藏不住的智能</b><br><i>缝隙窥视悬疑海报</i></sub></td>
 <td width="25%"><img src="gallery/电影感叠影海报.png?v=74154ea0" alt="电影感叠影海报"><br><sub><b>看见看不见的</b><br><i>电影感叠影海报</i></sub></td>
 </tr>
+<tr>
+<td width="25%"><img src="gallery/东方秩序线描剖构.png?v=bc117cf9" alt="东方秩序线描剖构"><br><sub><b>AI 系统架构</b><br><i>东方秩序线描剖构</i></sub></td>
+</tr>
 </table>
 
 ### 氛围插画 · 治愈与东方
@@ -91,6 +94,9 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/柔焦烟灰绿插画.png?v=7204c98c" alt="柔焦烟灰绿插画"><br><sub><b>雾中少女</b><br><i>柔焦烟灰绿插画</i></sub></td>
 <td width="25%"><img src="gallery/剪影双重曝光叙事海报.png?v=a601af71" alt="剪影双重曝光叙事海报"><br><sub><b>山海旅人</b><br><i>剪影双重曝光叙事海报</i></sub></td>
 </tr>
+<tr>
+<td width="25%"><img src="gallery/清透古典书写节令.png?v=136de4dd" alt="清透古典书写节令"><br><sub><b>涌现</b><br><i>清透古典书写节令</i></sub></td>
+</tr>
 </table>
 
 ### 复古印刷 · 丝网与拼贴
@@ -111,6 +117,7 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <tr>
 <td width="25%"><img src="gallery/半调网点墨镜肖像.png?v=f90301cb" alt="半调网点墨镜肖像"><br><sub><b>数据在眼里</b><br><i>半调网点墨镜肖像</i></sub></td>
 <td width="25%"><img src="gallery/高压杂志拼贴封面.png?v=40bc6d8b" alt="高压杂志拼贴封面"><br><sub><b>智能上新</b><br><i>高压杂志拼贴封面</i></sub></td>
+<td width="25%"><img src="gallery/半调网点图形留白.png?v=411d6670" alt="半调网点图形留白"><br><sub><b>算力</b><br><i>半调网点图形留白</i></sub></td>
 </tr>
 </table>
 
@@ -177,6 +184,7 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 </tr>
 <tr>
 <td width="25%"><img src="gallery/几何拆字刀功体.png?v=c46db673" alt="几何拆字刀功体"><br><sub><b>涌现</b><br><i>几何拆字刀功体</i></sub></td>
+<td width="25%"><img src="gallery/垂落细线字形装置.png?v=0df8ec35" alt="垂落细线字形装置"><br><sub><b>神经网络</b><br><i>垂落细线字形装置</i></sub></td>
 </tr>
 </table>
 
@@ -213,6 +221,12 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/巨型数字凹槽纪念封面.png?v=fff75e3a" alt="巨型数字凹槽纪念封面"><br><sub><b>AI 上线 1 周年</b><br><i>巨型数字凹槽纪念封面</i></sub></td>
 <td width="25%"><img src="gallery/图文贴纸拼贴海报.png?v=90a4e8b0" alt="图文贴纸拼贴海报"><br><sub><b>来试一下 AI</b><br><i>图文贴纸拼贴海报</i></sub></td>
 </tr>
+<tr>
+<td width="25%"><img src="gallery/街头纪实电影宣传画.png?v=01da3a3d" alt="街头纪实电影宣传画"><br><sub><b>AI 就在身边</b><br><i>街头纪实电影宣传画</i></sub></td>
+<td width="25%"><img src="gallery/庆祝仪式横写祝福海报.png?v=3146631b" alt="庆祝仪式横写祝福海报"><br><sub><b>与 AI 同行一周年</b><br><i>庆祝仪式横写祝福海报</i></sub></td>
+<td width="25%"><img src="gallery/清透庆祝光托图文.png?v=d097dd10" alt="清透庆祝光托图文"><br><sub><b>AI 正式上线</b><br><i>清透庆祝光托图文</i></sub></td>
+<td width="25%"><img src="gallery/清透舞台文字骨架.png?v=38edf3a0" alt="清透舞台文字骨架"><br><sub><b>人机协作</b><br><i>清透舞台文字骨架</i></sub></td>
+</tr>
 </table>
 
 ### 生活写实 · 像真照片的一帧
@@ -229,6 +243,9 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/idol九宫格写真.png?v=9c5f9713" alt="idol九宫格写真"><br><sub><b>idol 九宫格写真</b><br><i>idol九宫格写真</i></sub></td>
 <td width="25%"><img src="gallery/暗调电影感人像.png?v=fa3171f9" alt="暗调电影感人像"><br><sub><b>暗调电影人像</b><br><i>暗调电影感人像</i></sub></td>
 <td width="25%"><img src="gallery/旅行随手拍拼贴.png?v=994153a8" alt="旅行随手拍拼贴"><br><sub><b>旅行随手拍</b><br><i>旅行随手拍拼贴</i></sub></td>
+</tr>
+<tr>
+<td width="25%"><img src="gallery/手作线描产品展示.png?v=05484d3d" alt="手作线描产品展示"><br><sub><b>AI 录音笔</b><br><i>手作线描产品展示</i></sub></td>
 </tr>
 </table>
 
@@ -247,6 +264,7 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <tr>
 <td width="25%"><img src="gallery/长文转图30秒看懂.png?v=39cda6b5" alt="长文转图30秒看懂"><br><sub><b>企业为什么要专属的 AI 员工？</b><br><i>长文转图30秒看懂</i></sub></td>
 <td width="25%"><img src="gallery/手写学习笔记.png?v=6cb2e3bb" alt="手写学习笔记"><br><sub><b>机器学习入门</b><br><i>手写学习笔记</i></sub></td>
+<td width="25%"><img src="gallery/俯视生命轮回圆环.png?v=fac009ad" alt="俯视生命轮回圆环"><br><sub><b>模型生命周期</b><br><i>俯视生命轮回圆环</i></sub></td>
 </tr>
 </table>
 
