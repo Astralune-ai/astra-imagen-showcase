@@ -96,6 +96,7 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 </tr>
 <tr>
 <td width="25%"><img src="gallery/清透古典书写节令.png?v=136de4dd" alt="清透古典书写节令"><br><sub><b>涌现</b><br><i>清透古典书写节令</i></sub></td>
+<td width="25%"><img src="gallery/俯视生命轮回圆环.png?v=fac009ad" alt="俯视生命轮回圆环"><br><sub><b>模型生命周期</b><br><i>俯视生命轮回圆环</i></sub></td>
 </tr>
 </table>
 
@@ -227,7 +228,7 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/街头纪实电影宣传画.png?v=01da3a3d" alt="街头纪实电影宣传画"><br><sub><b>AI 就在身边</b><br><i>街头纪实电影宣传画</i></sub></td>
 <td width="25%"><img src="gallery/庆祝仪式横写祝福海报.png?v=3146631b" alt="庆祝仪式横写祝福海报"><br><sub><b>与 AI 同行一周年</b><br><i>庆祝仪式横写祝福海报</i></sub></td>
 <td width="25%"><img src="gallery/清透庆祝光托图文.png?v=d097dd10" alt="清透庆祝光托图文"><br><sub><b>AI 正式上线</b><br><i>清透庆祝光托图文</i></sub></td>
-<td width="25%"><img src="gallery/清透舞台文字骨架.png?v=38edf3a0" alt="清透舞台文字骨架"><br><sub><b>人机协作</b><br><i>清透舞台文字骨架</i></sub></td>
+<td width="25%"><img src="gallery/清透舞台文字骨架.png?v=ae4e2342" alt="清透舞台文字骨架"><br><sub><b>人机协作</b><br><i>清透舞台文字骨架</i></sub></td>
 </tr>
 </table>
 
@@ -246,9 +247,6 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/暗调电影感人像.png?v=fa3171f9" alt="暗调电影感人像"><br><sub><b>暗调电影人像</b><br><i>暗调电影感人像</i></sub></td>
 <td width="25%"><img src="gallery/旅行随手拍拼贴.png?v=994153a8" alt="旅行随手拍拼贴"><br><sub><b>旅行随手拍</b><br><i>旅行随手拍拼贴</i></sub></td>
 </tr>
-<tr>
-<td width="25%"><img src="gallery/手作线描产品展示.png?v=05484d3d" alt="手作线描产品展示"><br><sub><b>AI 录音笔</b><br><i>手作线描产品展示</i></sub></td>
-</tr>
 </table>
 
 ### 角色海报 · 刊封编辑体
@@ -266,7 +264,6 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <tr>
 <td width="25%"><img src="gallery/长文转图30秒看懂.png?v=39cda6b5" alt="长文转图30秒看懂"><br><sub><b>企业为什么要专属的 AI 员工？</b><br><i>长文转图30秒看懂</i></sub></td>
 <td width="25%"><img src="gallery/手写学习笔记.png?v=6cb2e3bb" alt="手写学习笔记"><br><sub><b>机器学习入门</b><br><i>手写学习笔记</i></sub></td>
-<td width="25%"><img src="gallery/俯视生命轮回圆环.png?v=fac009ad" alt="俯视生命轮回圆环"><br><sub><b>模型生命周期</b><br><i>俯视生命轮回圆环</i></sub></td>
 </tr>
 </table>
 
@@ -298,6 +295,14 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/纸本线描手稿.png?v=49effe22" alt="纸本线描手稿"><br><sub><b>AI 数据中心</b><br><i>纸本线描手稿</i></sub></td>
 <td width="25%"><img src="gallery/极简黑色手绘线描.png?v=11b96ba8" alt="极简黑色手绘线描"><br><sub><b>和 AI 协作</b><br><i>极简黑色手绘线描</i></sub></td>
 <td width="25%"><img src="gallery/笨拙手绘.png?v=49aeca3e" alt="笨拙手绘"><br><sub><b>我和我的 AI 小助手</b><br><i>笨拙手绘</i></sub></td>
+</tr>
+</table>
+
+### 产品展示 · 单品与质感
+
+<table>
+<tr>
+<td width="25%"><img src="gallery/手作线描产品展示.png?v=05484d3d" alt="手作线描产品展示"><br><sub><b>AI 录音笔</b><br><i>手作线描产品展示</i></sub></td>
 </tr>
 </table>
 <!-- GALLERY:END -->
