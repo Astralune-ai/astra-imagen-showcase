@@ -70,6 +70,9 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 </tr>
 <tr>
 <td width="25%"><img src="gallery/东方秩序线描剖构.png?v=bc117cf9" alt="东方秩序线描剖构"><br><sub><b>AI 系统架构</b><br><i>东方秩序线描剖构</i></sub></td>
+<td width="25%"><img src="gallery/巨影记忆双层戏剧海报.png?v=99908616" alt="巨影记忆双层戏剧海报"><br><sub><b>看不见的员工</b><br><i>巨影记忆双层戏剧海报</i></sub></td>
+<td width="25%"><img src="gallery/暗窗窥视手写电影海报.png?v=92e6c6b4" alt="暗窗窥视手写电影海报"><br><sub><b>看见数据</b><br><i>暗窗窥视手写电影海报</i></sub></td>
+<td width="25%"><img src="gallery/压缩黑体背身电影宣发.png?v=30d16dcd" alt="压缩黑体背身电影宣发"><br><sub><b>智能纪元</b><br><i>压缩黑体背身电影宣发</i></sub></td>
 </tr>
 </table>
 
@@ -97,6 +100,7 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <tr>
 <td width="25%"><img src="gallery/清透古典书写节令.png?v=136de4dd" alt="清透古典书写节令"><br><sub><b>涌现</b><br><i>清透古典书写节令</i></sub></td>
 <td width="25%"><img src="gallery/俯视生命轮回圆环.png?v=fac009ad" alt="俯视生命轮回圆环"><br><sub><b>模型生命周期</b><br><i>俯视生命轮回圆环</i></sub></td>
+<td width="25%"><img src="gallery/手写情绪词笑脸图文.png?v=ecd80453" alt="手写情绪词笑脸图文"><br><sub><b>和 AI 一起上班</b><br><i>手写情绪词笑脸图文</i></sub></td>
 </tr>
 </table>
 
@@ -137,6 +141,12 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/霓虹招牌大字.png?v=53d13dbb" alt="霓虹招牌大字"><br><sub><b>AI 不打烊</b><br><i>霓虹招牌大字</i></sub></td>
 <td width="25%"><img src="gallery/撞色几何标语.png?v=45f575dd" alt="撞色几何标语"><br><sub><b>未来已来</b><br><i>撞色几何标语</i></sub></td>
 <td width="25%"><img src="gallery/充气软体气球大字.png?v=cca3c276" alt="充气软体气球大字"><br><sub><b>AI 来了</b><br><i>充气软体气球大字</i></sub></td>
+</tr>
+<tr>
+<td width="25%"><img src="gallery/斜动势主体压巨字手写笔触.png?v=f0e2d6ab" alt="斜动势主体压巨字手写笔触"><br><sub><b>AI 上线一周年</b><br><i>斜动势主体压巨字手写笔触</i></sub></td>
+<td width="25%"><img src="gallery/顶部巨字商业发布海报.png?v=80ff3d72" alt="顶部巨字商业发布海报"><br><sub><b>AI 一体机发布</b><br><i>顶部巨字商业发布海报</i></sub></td>
+<td width="25%"><img src="gallery/暗场巨字警示划痕海报.png?v=1505bb51" alt="暗场巨字警示划痕海报"><br><sub><b>打开 AI 黑箱</b><br><i>暗场巨字警示划痕海报</i></sub></td>
+<td width="25%"><img src="gallery/斜向信息带商业人像.png?v=ea435059" alt="斜向信息带商业人像"><br><sub><b>AI 落地顾问</b><br><i>斜向信息带商业人像</i></sub></td>
 </tr>
 </table>
 
@@ -188,6 +198,10 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/几何拆字刀功体.png?v=c46db673" alt="几何拆字刀功体"><br><sub><b>涌现</b><br><i>几何拆字刀功体</i></sub></td>
 <td width="25%"><img src="gallery/垂落细线字形装置.png?v=0df8ec35" alt="垂落细线字形装置"><br><sub><b>神经网络</b><br><i>垂落细线字形装置</i></sub></td>
 <td width="25%"><img src="gallery/冷峻展览失焦巨形.png?v=a1e29b5d" alt="冷峻展览失焦巨形"><br><sub><b>模型</b><br><i>冷峻展览失焦巨形</i></sub></td>
+<td width="25%"><img src="gallery/负形巨字穿插人像.png?v=2d656407" alt="负形巨字穿插人像"><br><sub><b>智能涌现</b><br><i>负形巨字穿插人像</i></sub></td>
+</tr>
+<tr>
+<td width="25%"><img src="gallery/黑白首字母色雾编辑海报.png?v=ef12ca78" alt="黑白首字母色雾编辑海报"><br><sub><b>A · 人工智能</b><br><i>黑白首字母色雾编辑海报</i></sub></td>
 </tr>
 </table>
 
@@ -230,6 +244,12 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/清透庆祝光托图文.png?v=d097dd10" alt="清透庆祝光托图文"><br><sub><b>AI 正式上线</b><br><i>清透庆祝光托图文</i></sub></td>
 <td width="25%"><img src="gallery/清透舞台文字骨架.png?v=ae4e2342" alt="清透舞台文字骨架"><br><sub><b>人机协作</b><br><i>清透舞台文字骨架</i></sub></td>
 </tr>
+<tr>
+<td width="25%"><img src="gallery/巨影压近百叶人像.png?v=410b0708" alt="巨影压近百叶人像"><br><sub><b>首席 AI 官</b><br><i>巨影压近百叶人像</i></sub></td>
+<td width="25%"><img src="gallery/竖排巨字切开人像.png?v=e01c1fcc" alt="竖排巨字切开人像"><br><sub><b>智能 · AI 架构师</b><br><i>竖排巨字切开人像</i></sub></td>
+<td width="25%"><img src="gallery/冷静纪念雾面双影.png?v=15b21924" alt="冷静纪念雾面双影"><br><sub><b>模型纪元</b><br><i>冷静纪念雾面双影</i></sub></td>
+<td width="25%"><img src="gallery/黑白人像信息拼贴专题.png?v=da72b016" alt="黑白人像信息拼贴专题"><br><sub><b>让 AI 在企业里长出来</b><br><i>黑白人像信息拼贴专题</i></sub></td>
+</tr>
 </table>
 
 ### 生活写实 · 像真照片的一帧
@@ -264,6 +284,7 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <tr>
 <td width="25%"><img src="gallery/长文转图30秒看懂.png?v=39cda6b5" alt="长文转图30秒看懂"><br><sub><b>企业为什么要专属的 AI 员工？</b><br><i>长文转图30秒看懂</i></sub></td>
 <td width="25%"><img src="gallery/手写学习笔记.png?v=6cb2e3bb" alt="手写学习笔记"><br><sub><b>机器学习入门</b><br><i>手写学习笔记</i></sub></td>
+<td width="25%"><img src="gallery/文物美学知识海报.png?v=fb16ceac" alt="文物美学知识海报"><br><sub><b>马踏飞燕</b><br><i>文物美学知识海报</i></sub></td>
 </tr>
 </table>
 
