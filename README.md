@@ -317,6 +317,9 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <td width="25%"><img src="gallery/极简黑色手绘线描.png?v=11b96ba8" alt="极简黑色手绘线描"><br><sub><b>和 AI 协作</b><br><i>极简黑色手绘线描</i></sub></td>
 <td width="25%"><img src="gallery/笨拙手绘.png?v=49aeca3e" alt="笨拙手绘"><br><sub><b>我和我的 AI 小助手</b><br><i>笨拙手绘</i></sub></td>
 </tr>
+<tr>
+<td width="25%"><img src="gallery/架空灯光概念稿水泥手绘.png?v=657da4c0" alt="架空灯光概念稿水泥手绘"><br><sub><b>美术馆中庭</b><br><i>架空灯光概念稿水泥手绘</i></sub></td>
+</tr>
 </table>
 
 ### 产品展示 · 单品与质感
