@@ -274,7 +274,6 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <table>
 <tr>
 <td width="25%"><img src="gallery/编辑衬线角色海报.png?v=c03ac2a0" alt="编辑衬线角色海报"><br><sub><b>数字员工 ASTRA</b><br><i>编辑衬线角色海报</i></sub></td>
-<td width="25%"><img src="gallery/编辑衬线角色海报_akali.png?v=5ef08537" alt="编辑衬线角色海报"><br><sub><b>暗夜刺客 阿卡丽</b><br><i>编辑衬线角色海报</i></sub></td>
 </tr>
 </table>
 
@@ -327,6 +326,15 @@ N 个 Markdown 模板 · 100 构图 · 383 画师 · 736 中国传统色 · 真�
 <table>
 <tr>
 <td width="25%"><img src="gallery/手作线描产品展示.png?v=05484d3d" alt="手作线描产品展示"><br><sub><b>AI 录音笔</b><br><i>手作线描产品展示</i></sub></td>
+</tr>
+</table>
+
+### 角色海报 · 游戏原画开屏
+
+<table>
+<tr>
+<td width="25%"><img src="gallery/游戏开屏光柱英雄.png?v=8d1ea3f1" alt="游戏开屏光柱英雄"><br><sub><b>数据晶体守护者</b><br><i>游戏开屏光柱英雄</i></sub></td>
+<td width="25%"><img src="gallery/游戏开屏动势光刃.png?v=624bc1ba" alt="游戏开屏动势光刃"><br><sub><b>破开混沌的先锋</b><br><i>游戏开屏动势光刃</i></sub></td>
 </tr>
 </table>
 <!-- GALLERY:END -->
